@@ -1,0 +1,434 @@
+[
+  {
+    "word": "knowledge",
+    "ipa": "/ˈnɑː.lɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "지식"
+      }
+    ]
+  },
+  {
+    "word": "encourage",
+    "ipa": "/ɪnˈkɜːr.ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "격려하다"
+      }
+    ]
+  },
+  {
+    "word": "discourage",
+    "ipa": "/dɪsˈkɜːr.ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "낙담시키다"
+      }
+    ]
+  },
+  {
+    "word": "detail",
+    "ipa": "/ˈdiː.teɪl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "세부사항"
+      }
+    ]
+  },
+  {
+    "word": "resolution",
+    "ipa": "/ˌrez.əˈluː.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "결의, 해결"
+      }
+    ]
+  },
+  {
+    "word": "probable",
+    "ipa": "/ˈprɑː.bə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "있음직한"
+      }
+    ]
+  },
+  {
+    "word": "trait",
+    "ipa": "/treɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "특징"
+      }
+    ]
+  },
+  {
+    "word": "direct",
+    "ipa": "/dəˈrekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "지시하다"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "직접적인"
+      }
+    ]
+  },
+  {
+    "word": "distance",
+    "ipa": "/ˈdɪs.təns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "거리"
+      }
+    ]
+  },
+  {
+    "word": "income",
+    "ipa": "/ˈɪn.kʌm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수입"
+      }
+    ]
+  },
+  {
+    "word": "revise",
+    "ipa": "/rɪˈvaɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "수정하다"
+      }
+    ]
+  },
+  {
+    "word": "mark",
+    "ipa": "/mɑːrk/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "표시하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "표시"
+      }
+    ]
+  },
+  {
+    "word": "negative",
+    "ipa": "/ˈneɡ.ə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "부정적인"
+      }
+    ]
+  },
+  {
+    "word": "official",
+    "ipa": "/əˈfɪʃ.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "공식적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공무원"
+      }
+    ]
+  },
+  {
+    "word": "search",
+    "ipa": "/sɜːrtʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "찾다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "탐색"
+      }
+    ]
+  },
+  {
+    "word": "benefit",
+    "ipa": "/ˈben.ə.fɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이익"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "이익을 주다"
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "ipa": "/ˈprɑː.fɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수익"
+      }
+    ]
+  },
+  {
+    "word": "damage",
+    "ipa": "/ˈdæm.ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "피해"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "손상시키다"
+      }
+    ]
+  },
+  {
+    "word": "amaze",
+    "ipa": "/əˈmeɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "놀라게 하다"
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "ipa": "/ˌɑː.pərˈtuː.nə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기회"
+      }
+    ]
+  },
+  {
+    "word": "ignore",
+    "ipa": "/ɪɡˈnɔːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "무시하다"
+      }
+    ]
+  },
+  {
+    "word": "contact",
+    "ipa": "/ˈkɑːn.tækt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "연락하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "연락"
+      }
+    ]
+  },
+  {
+    "word": "various",
+    "ipa": "/ˈver.i.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "다양한"
+      }
+    ]
+  },
+  {
+    "word": "diverse",
+    "ipa": "/daɪˈvɜːrs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "다양한"
+      }
+    ]
+  },
+  {
+    "word": "performance",
+    "ipa": "/pərˈfɔːr.məns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공연, 성과"
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "ipa": "/kənˈteɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "포함하다"
+      }
+    ]
+  },
+  {
+    "word": "involve",
+    "ipa": "/ɪnˈvɑːlv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "포함하다, 관련되다"
+      }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "ipa": "/ˈkɑːn.sən.treɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "집중하다"
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "ipa": "/dɪˈstɜːrb/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "방해하다"
+      }
+    ]
+  },
+  {
+    "word": "due",
+    "ipa": "/duː/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "~하기로 되어 있는"
+      }
+    ]
+  },
+  {
+    "word": "examine",
+    "ipa": "/ɪɡˈzæm.ɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조사하다"
+      }
+    ]
+  },
+  {
+    "word": "investigate",
+    "ipa": "/ɪnˈves.t̬ə.ɡeɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "수사하다, 조사하다"
+      }
+    ]
+  },
+  {
+    "word": "research",
+    "ipa": "/ˈriː.sɜːrtʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "연구하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "연구"
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "ipa": "/məˈtɪr.i.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "자료, 재료"
+      }
+    ]
+  },
+  {
+    "word": "medical",
+    "ipa": "/ˈmed.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "의학의"
+      }
+    ]
+  },
+  {
+    "word": "pursue",
+    "ipa": "/pərˈsuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "추구하다"
+      }
+    ]
+  },
+  {
+    "word": "alter",
+    "ipa": "/ˈɔːl.t̬ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "바꾸다"
+      }
+    ]
+  },
+  {
+    "word": "according to",
+    "ipa": "/əˈkɔːr.dɪŋ tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~에 따르면"
+      }
+    ]
+  },
+  {
+    "word": "participate in",
+    "ipa": "/pɑːrˈtɪs.ə.peɪt ɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~에 참여하다"
+      }
+    ]
+  },
+  {
+    "word": "look into",
+    "ipa": "/lʊk ˈɪn.tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "조사하다"
+      }
+    ]
+  }
+]

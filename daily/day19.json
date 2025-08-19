@@ -1,0 +1,450 @@
+[
+  {
+    "word": "electronic",
+    "ipa": "/ɪˌlekˈtrɑː.nɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "전자의"
+      }
+    ]
+  },
+  {
+    "word": "multiply",
+    "ipa": "/ˈmʌl.t̬ə.plaɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "곱하다"
+      }
+    ]
+  },
+  {
+    "word": "upload",
+    "ipa": "/ʌpˈloʊd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "업로드하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "업로드"
+      }
+    ]
+  },
+  {
+    "word": "download",
+    "ipa": "/ˈdaʊn.loʊd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "다운로드하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "다운로드"
+      }
+    ]
+  },
+  {
+    "word": "virtual",
+    "ipa": "/ˈvɜːr.tʃu.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "가상의"
+      }
+    ]
+  },
+  {
+    "word": "activate",
+    "ipa": "/ˈæk.t̬ə.veɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "활성화하다"
+      }
+    ]
+  },
+  {
+    "word": "nuclear",
+    "ipa": "/ˈnuː.kli.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "핵의"
+      }
+    ]
+  },
+  {
+    "word": "install",
+    "ipa": "/ɪnˈstɔːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설치하다"
+      }
+    ]
+  },
+  {
+    "word": "maximize",
+    "ipa": "/ˈmæk.sə.maɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "최대화하다"
+      }
+    ]
+  },
+  {
+    "word": "minimize",
+    "ipa": "/ˈmɪn.ə.maɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "최소화하다"
+      }
+    ]
+  },
+  {
+    "word": "circuit",
+    "ipa": "/ˈsɜːr.kɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "회로"
+      }
+    ]
+  },
+  {
+    "word": "sort",
+    "ipa": "/sɔːrt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "분류하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "종류"
+      }
+    ]
+  },
+  {
+    "word": "automatic",
+    "ipa": "/ˌɔː.t̬əˈmæt̬.ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "자동의"
+      }
+    ]
+  },
+  {
+    "word": "manual",
+    "ipa": "/ˈmæn.ju.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "수동의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "설명서"
+      }
+    ]
+  },
+  {
+    "word": "visual",
+    "ipa": "/ˈvɪʒ.u.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "시각적인"
+      }
+    ]
+  },
+  {
+    "word": "recharge",
+    "ipa": "/ˌriːˈtʃɑːrdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "재충전하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "재충전"
+      }
+    ]
+  },
+  {
+    "word": "numerous",
+    "ipa": "/ˈnuː.mər.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "수많은"
+      }
+    ]
+  },
+  {
+    "word": "statistics",
+    "ipa": "/stəˈtɪs.tɪks/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "통계"
+      }
+    ]
+  },
+  {
+    "word": "angle",
+    "ipa": "/ˈæŋ.ɡəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "각도"
+      }
+    ]
+  },
+  {
+    "word": "equation",
+    "ipa": "/ɪˈkweɪ.ʒən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "방정식"
+      }
+    ]
+  },
+  {
+    "word": "ride",
+    "ipa": "/raɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "타다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "승차"
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "ipa": "/kræʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "충돌하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "충돌"
+      }
+    ]
+  },
+  {
+    "word": "rush",
+    "ipa": "/rʌʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "급히 가다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "서두름"
+      }
+    ]
+  },
+  {
+    "word": "bump",
+    "ipa": "/bʌmp/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "부딪치다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "충돌"
+      }
+    ]
+  },
+  {
+    "word": "aircraft",
+    "ipa": "/ˈer.kræft/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "항공기"
+      }
+    ]
+  },
+  {
+    "word": "astronaut",
+    "ipa": "/ˈæs.trə.nɔːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "우주비행사"
+      }
+    ]
+  },
+  {
+    "word": "mechanical",
+    "ipa": "/məˈkæn.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "기계의"
+      }
+    ]
+  },
+  {
+    "word": "loosen",
+    "ipa": "/ˈluː.sən/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "느슨하게 하다"
+      }
+    ]
+  },
+  {
+    "word": "spare",
+    "ipa": "/sper/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "여분의"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "아끼다"
+      }
+    ]
+  },
+  {
+    "word": "rough",
+    "ipa": "/rʌf/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "거친"
+      }
+    ]
+  },
+  {
+    "word": "transport",
+    "ipa": "/ˈtræn.spɔːrt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "운송하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "운송"
+      }
+    ]
+  },
+  {
+    "word": "passenger",
+    "ipa": "/ˈpæs.ən.dʒər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "승객"
+      }
+    ]
+  },
+  {
+    "word": "commute",
+    "ipa": "/kəˈmjuːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "통근하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "통근"
+      }
+    ]
+  },
+  {
+    "word": "inspect",
+    "ipa": "/ɪnˈspekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조사하다"
+      }
+    ]
+  },
+  {
+    "word": "accelerate",
+    "ipa": "/əkˈsel.ə.reɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "가속하다"
+      }
+    ]
+  },
+  {
+    "word": "navigate",
+    "ipa": "/ˈnæv.ə.ɡeɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "항해하다"
+      }
+    ]
+  },
+  {
+    "word": "shipment",
+    "ipa": "/ˈʃɪp.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수송, 배송"
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "ipa": "/əˈsem.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조립하다"
+      }
+    ]
+  },
+  {
+    "word": "have A in common",
+    "ipa": "/hæv eɪ ɪn ˈkɑː.mən/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "A를 공통으로 가지다"
+      }
+    ]
+  },
+  {
+    "word": "turn A into B",
+    "ipa": "/tɜːrn eɪ ˈɪn.tuː biː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "A를 B로 바꾸다"
+      }
+    ]
+  }
+]

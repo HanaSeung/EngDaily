@@ -1,0 +1,438 @@
+[
+  {
+    "word": "population",
+    "ipa": "/ˌpɑː.pjəˈleɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "인구"
+      }
+    ]
+  },
+  {
+    "word": "foster",
+    "ipa": "/ˈfɔː.stər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "육성하다, 촉진하다"
+      }
+    ]
+  },
+  {
+    "word": "nurture",
+    "ipa": "/ˈnɜːr.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "양육하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "양육"
+      }
+    ]
+  },
+  {
+    "word": "available",
+    "ipa": "/əˈveɪ.lə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "이용 가능한"
+      }
+    ]
+  },
+  {
+    "word": "discover",
+    "ipa": "/dɪˈskʌv.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "발견하다"
+      }
+    ]
+  },
+  {
+    "word": "carbon",
+    "ipa": "/ˈkɑːr.bən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "탄소"
+      }
+    ]
+  },
+  {
+    "word": "pressure",
+    "ipa": "/ˈpreʃ.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "압력, 압박"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "압박하다"
+      }
+    ]
+  },
+  {
+    "word": "accuse",
+    "ipa": "/əˈkjuːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "비난하다, 고발하다"
+      }
+    ]
+  },
+  {
+    "word": "outstanding",
+    "ipa": "/ˌaʊtˈstæn.dɪŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "뛰어난"
+      }
+    ]
+  },
+  {
+    "word": "conversation",
+    "ipa": "/ˌkɑːn.vərˈseɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "대화"
+      }
+    ]
+  },
+  {
+    "word": "massive",
+    "ipa": "/ˈmæs.ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "거대한"
+      }
+    ]
+  },
+  {
+    "word": "analogy",
+    "ipa": "/əˈnæl.ə.dʒi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유사, 비유"
+      }
+    ]
+  },
+  {
+    "word": "wound",
+    "ipa": "/wuːnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상처, 부상"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "상처를 입히다"
+      }
+    ]
+  },
+  {
+    "word": "cause",
+    "ipa": "/kɔːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "원인"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "초래하다"
+      }
+    ]
+  },
+  {
+    "word": "consequence",
+    "ipa": "/ˈkɑːn.sə.kwəns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "결과"
+      }
+    ]
+  },
+  {
+    "word": "election",
+    "ipa": "/ɪˈlek.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "선거"
+      }
+    ]
+  },
+  {
+    "word": "trace",
+    "ipa": "/treɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "흔적"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "추적하다"
+      }
+    ]
+  },
+  {
+    "word": "wire",
+    "ipa": "/ˈwaɪər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "철사, 전선"
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "ipa": "/rɪˈstɔːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "회복하다"
+      }
+    ]
+  },
+  {
+    "word": "cognitive",
+    "ipa": "/ˈkɑːɡ.nə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "인지의"
+      }
+    ]
+  },
+  {
+    "word": "biological",
+    "ipa": "/ˌbaɪ.əˈlɑː.dʒɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "생물학적인"
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "ipa": "/əˈbɪl.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "능력"
+      }
+    ]
+  },
+  {
+    "word": "capacity",
+    "ipa": "/kəˈpæs.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수용력, 능력"
+      }
+    ]
+  },
+  {
+    "word": "ingredient",
+    "ipa": "/ɪnˈɡriː.di.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "재료, 성분"
+      }
+    ]
+  },
+  {
+    "word": "adversity",
+    "ipa": "/ədˈvɜːr.sə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "역경"
+      }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "ipa": "/ɪnˈtel.ə.dʒənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "지적인"
+      }
+    ]
+  },
+  {
+    "word": "multiple",
+    "ipa": "/ˈmʌl.t̬ə.pəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "여러 개의"
+      }
+    ]
+  },
+  {
+    "word": "exotic",
+    "ipa": "/ɪɡˈzɑː.t̬ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "이국적인"
+      }
+    ]
+  },
+  {
+    "word": "reference",
+    "ipa": "/ˈref.ər.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "언급, 참조"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "참조하다"
+      }
+    ]
+  },
+  {
+    "word": "scatter",
+    "ipa": "/ˈskæt̬.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "흩뿌리다"
+      }
+    ]
+  },
+  {
+    "word": "conflict",
+    "ipa": "/ˈkɑːn.flɪkt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "갈등"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "갈등하다"
+      }
+    ]
+  },
+  {
+    "word": "friction",
+    "ipa": "/ˈfrɪk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "마찰, 불화"
+      }
+    ]
+  },
+  {
+    "word": "asset",
+    "ipa": "/ˈæs.et/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "자산"
+      }
+    ]
+  },
+  {
+    "word": "professional",
+    "ipa": "/prəˈfeʃ.ən.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "전문적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "전문가"
+      }
+    ]
+  },
+  {
+    "word": "disclose",
+    "ipa": "/dɪsˈkloʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "밝히다, 공개하다"
+      }
+    ]
+  },
+  {
+    "word": "negotiate",
+    "ipa": "/nəˈɡoʊ.ʃi.eɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "협상하다"
+      }
+    ]
+  },
+  {
+    "word": "split",
+    "ipa": "/splɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "나누다, 분열하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "분열"
+      }
+    ]
+  },
+  {
+    "word": "have difficulty (in) -ing",
+    "ipa": "/hæv ˈdɪf.ə.kəl.t̬i ɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~하는 데 어려움을 겪다"
+      }
+    ]
+  },
+  {
+    "word": "go through",
+    "ipa": "/ɡoʊ θruː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "겪다, 경험하다"
+      }
+    ]
+  },
+  {
+    "word": "be regarded as",
+    "ipa": "/biː rɪˈɡɑːr.dɪd æz/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~로 여겨지다"
+      }
+    ]
+  }
+]

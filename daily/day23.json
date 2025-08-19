@@ -1,0 +1,438 @@
+[
+  {
+    "word": "column",
+    "ipa": "/ˈkɑː.ləm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기둥, 칼럼"
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "ipa": "/əˈnaʊns/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "발표하다"
+      }
+    ]
+  },
+  {
+    "word": "union",
+    "ipa": "/ˈjuː.njən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "연합, 조합"
+      }
+    ]
+  },
+  {
+    "word": "convey",
+    "ipa": "/kənˈveɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "전달하다"
+      }
+    ]
+  },
+  {
+    "word": "leak",
+    "ipa": "/liːk/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "새다, 누설하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "누출"
+      }
+    ]
+  },
+  {
+    "word": "affair",
+    "ipa": "/əˈfer/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "일, 사건"
+      }
+    ]
+  },
+  {
+    "word": "brief",
+    "ipa": "/briːf/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "짧은"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "간단히 알리다"
+      }
+    ]
+  },
+  {
+    "word": "enhance",
+    "ipa": "/ɪnˈhæns/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "향상시키다"
+      }
+    ]
+  },
+  {
+    "word": "verbal",
+    "ipa": "/ˈvɝː.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "말의, 언어의"
+      }
+    ]
+  },
+  {
+    "word": "medium",
+    "ipa": "/ˈmiː.di.əm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "매체, 수단"
+      }
+    ]
+  },
+  {
+    "word": "signal",
+    "ipa": "/ˈsɪɡ.nəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신호"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "신호를 보내다"
+      }
+    ]
+  },
+  {
+    "word": "transmit",
+    "ipa": "/trænsˈmɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "전송하다, 전달하다"
+      }
+    ]
+  },
+  {
+    "word": "broadcast",
+    "ipa": "/ˈbrɔːd.kæst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "방송하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "방송"
+      }
+    ]
+  },
+  {
+    "word": "audience",
+    "ipa": "/ˈɑː.di.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "청중, 관객"
+      }
+    ]
+  },
+  {
+    "word": "viewer",
+    "ipa": "/ˈvjuː.ɚ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "시청자"
+      }
+    ]
+  },
+  {
+    "word": "commercial",
+    "ipa": "/kəˈmɝː.ʃəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "상업적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "광고"
+      }
+    ]
+  },
+  {
+    "word": "appealing",
+    "ipa": "/əˈpiː.lɪŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "매력적인"
+      }
+    ]
+  },
+  {
+    "word": "evident",
+    "ipa": "/ˈev.ə.dənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "분명한"
+      }
+    ]
+  },
+  {
+    "word": "obscure",
+    "ipa": "/əbˈskjʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "모호한"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "모호하게 하다"
+      }
+    ]
+  },
+  {
+    "word": "limitation",
+    "ipa": "/ˌlɪm.əˈteɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "제한, 한계"
+      }
+    ]
+  },
+  {
+    "word": "visible",
+    "ipa": "/ˈvɪz.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "보이는"
+      }
+    ]
+  },
+  {
+    "word": "compelling",
+    "ipa": "/kəmˈpel.ɪŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "설득력 있는, 강렬한"
+      }
+    ]
+  },
+  {
+    "word": "illustrate",
+    "ipa": "/ˈɪl.ə.streɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설명하다, 삽화를 넣다"
+      }
+    ]
+  },
+  {
+    "word": "diminish",
+    "ipa": "/dɪˈmɪn.ɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "줄어들다, 감소하다"
+      }
+    ]
+  },
+  {
+    "word": "lessen",
+    "ipa": "/ˈles.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "줄이다"
+      }
+    ]
+  },
+  {
+    "word": "informative",
+    "ipa": "/ɪnˈfɔːr.mə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유익한, 정보를 주는"
+      }
+    ]
+  },
+  {
+    "word": "satellite",
+    "ipa": "/ˈsæt̬.əl.aɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "위성"
+      }
+    ]
+  },
+  {
+    "word": "mobile",
+    "ipa": "/ˈmoʊ.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "이동식의, 모바일의"
+      }
+    ]
+  },
+  {
+    "word": "portable",
+    "ipa": "/ˈpɔːr.t̬ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "휴대용의"
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "ipa": "/kəˈlekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "모으다, 수집하다"
+      }
+    ]
+  },
+  {
+    "word": "variable",
+    "ipa": "/ˈver.i.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "변동이 심한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "변수"
+      }
+    ]
+  },
+  {
+    "word": "pile",
+    "ipa": "/paɪl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "더미, 무더기"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "쌓다"
+      }
+    ]
+  },
+  {
+    "word": "wrap",
+    "ipa": "/ræp/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "싸다, 포장하다"
+      }
+    ]
+  },
+  {
+    "word": "deliver",
+    "ipa": "/dɪˈlɪv.ɚ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "배달하다, 전달하다"
+      }
+    ]
+  },
+  {
+    "word": "envelope",
+    "ipa": "/ˈen.və.loʊp/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "봉투"
+      }
+    ]
+  },
+  {
+    "word": "stamp",
+    "ipa": "/stæmp/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "우표"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "도장을 찍다"
+      }
+    ]
+  },
+  {
+    "word": "respondent",
+    "ipa": "/rɪˈspɑːn.dənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "응답자"
+      }
+    ]
+  },
+  {
+    "word": "transaction",
+    "ipa": "/trænˈzæk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "거래"
+      }
+    ]
+  },
+  {
+    "word": "feel free to do",
+    "ipa": "/fiːl friː tuː duː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "자유롭게 ~하다"
+      }
+    ]
+  },
+  {
+    "word": "get in touch with",
+    "ipa": "/ɡet ɪn tʌtʃ wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "~와 연락하다"
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "word": "category",
+    "ipa": "/ˈkæt̬.ə.ɡɔːr.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "범주"
+      }
+    ]
+  },
+  {
+    "word": "except",
+    "ipa": "/ɪkˈsept/",
+    "meanings": [
+      {
+        "partOfSpeech": "전치사",
+        "meaning": "~을 제외하고"
+      }
+    ]
+  },
+  {
+    "word": "discuss",
+    "ipa": "/dɪˈskʌs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "토론하다"
+      }
+    ]
+  },
+  {
+    "word": "debate",
+    "ipa": "/dɪˈbeɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "논쟁하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "논쟁"
+      }
+    ]
+  },
+  {
+    "word": "judgment",
+    "ipa": "/ˈdʒʌdʒ.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "판단"
+      }
+    ]
+  },
+  {
+    "word": "consume",
+    "ipa": "/kənˈsuːm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "소비하다"
+      }
+    ]
+  },
+  {
+    "word": "alive",
+    "ipa": "/əˈlaɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "살아있는"
+      }
+    ]
+  },
+  {
+    "word": "valuable",
+    "ipa": "/ˈvæl.ju.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "소중한, 귀중한"
+      }
+    ]
+  },
+  {
+    "word": "complain",
+    "ipa": "/kəmˈpleɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "불평하다"
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "ipa": "/rɪˈpleɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "대체하다"
+      }
+    ]
+  },
+  {
+    "word": "norm",
+    "ipa": "/nɔːrm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "규범"
+      }
+    ]
+  },
+  {
+    "word": "standard",
+    "ipa": "/ˈstæn.dərd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기준"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "표준의"
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "ipa": "/ˈæd.vər.taɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "광고하다"
+      }
+    ]
+  },
+  {
+    "word": "awareness",
+    "ipa": "/əˈwer.nəs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "인식"
+      }
+    ]
+  },
+  {
+    "word": "concept",
+    "ipa": "/ˈkɑːn.sept/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "개념"
+      }
+    ]
+  },
+  {
+    "word": "respond",
+    "ipa": "/rɪˈspɑːnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "응답하다"
+      }
+    ]
+  },
+  {
+    "word": "credit",
+    "ipa": "/ˈkred.ɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신용"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "공로를 인정하다"
+      }
+    ]
+  },
+  {
+    "word": "poison",
+    "ipa": "/ˈpɔɪ.zən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "독"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "독을 넣다"
+      }
+    ]
+  },
+  {
+    "word": "indicate",
+    "ipa": "/ˈɪn.də.keɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "나타내다"
+      }
+    ]
+  },
+  {
+    "word": "chemical",
+    "ipa": "/ˈkem.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "화학의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "화학 물질"
+      }
+    ]
+  },
+  {
+    "word": "primary",
+    "ipa": "/ˈpraɪ.mer.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "주요한"
+      }
+    ]
+  },
+  {
+    "word": "essential",
+    "ipa": "/ɪˈsen.ʃəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "필수적인"
+      }
+    ]
+  },
+  {
+    "word": "opinion",
+    "ipa": "/əˈpɪn.jən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "의견"
+      }
+    ]
+  },
+  {
+    "word": "efficient",
+    "ipa": "/ɪˈfɪʃ.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "효율적인"
+      }
+    ]
+  },
+  {
+    "word": "welfare",
+    "ipa": "/ˈwel.fer/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "복지"
+      }
+    ]
+  },
+  {
+    "word": "eliminate",
+    "ipa": "/ɪˈlɪm.ə.neɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제거하다"
+      }
+    ]
+  },
+  {
+    "word": "locate",
+    "ipa": "/ˈloʊ.keɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "위치를 찾다"
+      }
+    ]
+  },
+  {
+    "word": "invention",
+    "ipa": "/ɪnˈven.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "발명"
+      }
+    ]
+  },
+  {
+    "word": "ideal",
+    "ipa": "/aɪˈdiː.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "이상적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이상"
+      }
+    ]
+  },
+  {
+    "word": "realistic",
+    "ipa": "/ˌriː.əˈlɪs.tɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "현실적인"
+      }
+    ]
+  },
+  {
+    "word": "conclude",
+    "ipa": "/kənˈkluːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "결론짓다"
+      }
+    ]
+  },
+  {
+    "word": "struggle",
+    "ipa": "/ˈstrʌɡ.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고군분투하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "투쟁"
+      }
+    ]
+  },
+  {
+    "word": "unique",
+    "ipa": "/juˈniːk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유일한"
+      }
+    ]
+  },
+  {
+    "word": "proper",
+    "ipa": "/ˈprɑː.pər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "적절한"
+      }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "ipa": "/əˈproʊ.pri.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "적합한"
+      }
+    ]
+  },
+  {
+    "word": "supplement",
+    "ipa": "/ˈsʌp.lə.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "보충제"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "보충하다"
+      }
+    ]
+  },
+  {
+    "word": "trial",
+    "ipa": "/ˈtraɪ.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "시험, 재판"
+      }
+    ]
+  },
+  {
+    "word": "infant",
+    "ipa": "/ˈɪn.fənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유아"
+      }
+    ]
+  },
+  {
+    "word": "run out of",
+    "ipa": "/rʌn aʊt əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~을 다 써버리다"
+      }
+    ]
+  },
+  {
+    "word": "can afford to do",
+    "ipa": "/kæn əˈfɔːrd tuː duː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~할 여유가 있다"
+      }
+    ]
+  }
+]

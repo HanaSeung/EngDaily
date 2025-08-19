@@ -1,0 +1,438 @@
+[
+  {
+    "word": "physical",
+    "ipa": "/ˈfɪz.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "신체의"
+      }
+    ]
+  },
+  {
+    "word": "opponent",
+    "ipa": "/əˈpoʊ.nənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상대"
+      }
+    ]
+  },
+  {
+    "word": "target",
+    "ipa": "/ˈtɑːr.ɡɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "목표"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "목표로 하다"
+      }
+    ]
+  },
+  {
+    "word": "posture",
+    "ipa": "/ˈpɑːs.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "자세"
+      }
+    ]
+  },
+  {
+    "word": "track",
+    "ipa": "/træk/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "트랙, 경로"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "추적하다"
+      }
+    ]
+  },
+  {
+    "word": "row",
+    "ipa": "/roʊ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "줄, 열"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "젓다"
+      }
+    ]
+  },
+  {
+    "word": "stretch",
+    "ipa": "/stretʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "늘이다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신장"
+      }
+    ]
+  },
+  {
+    "word": "extreme",
+    "ipa": "/ɪkˈstriːm/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "극단적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "극단"
+      }
+    ]
+  },
+  {
+    "word": "flexible",
+    "ipa": "/ˈflek.sə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유연한"
+      }
+    ]
+  },
+  {
+    "word": "muscle",
+    "ipa": "/ˈmʌs.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "근육"
+      }
+    ]
+  },
+  {
+    "word": "surgery",
+    "ipa": "/ˈsɜːr.dʒər.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수술"
+      }
+    ]
+  },
+  {
+    "word": "cure",
+    "ipa": "/kjʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "치료하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "치료법"
+      }
+    ]
+  },
+  {
+    "word": "heal",
+    "ipa": "/hiːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "낫다, 치유하다"
+      }
+    ]
+  },
+  {
+    "word": "symptom",
+    "ipa": "/ˈsɪmp.təm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "증상"
+      }
+    ]
+  },
+  {
+    "word": "immune",
+    "ipa": "/ɪˈmjuːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "면역의"
+      }
+    ]
+  },
+  {
+    "word": "therapy",
+    "ipa": "/ˈθer.ə.pi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "치료"
+      }
+    ]
+  },
+  {
+    "word": "faint",
+    "ipa": "/feɪnt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기절하다"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "희미한"
+      }
+    ]
+  },
+  {
+    "word": "stroke",
+    "ipa": "/stroʊk/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "뇌졸중"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "쓰다듬다"
+      }
+    ]
+  },
+  {
+    "word": "breath",
+    "ipa": "/breθ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "숨"
+      }
+    ]
+  },
+  {
+    "word": "bleed",
+    "ipa": "/bliːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "피를 흘리다"
+      }
+    ]
+  },
+  {
+    "word": "diagnose",
+    "ipa": "/ˈdaɪ.əɡ.noʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "진단하다"
+      }
+    ]
+  },
+  {
+    "word": "prescribe",
+    "ipa": "/prɪˈskraɪb/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "처방하다"
+      }
+    ]
+  },
+  {
+    "word": "chronic",
+    "ipa": "/ˈkrɑː.nɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "만성의"
+      }
+    ]
+  },
+  {
+    "word": "obesity",
+    "ipa": "/oʊˈbiː.sə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "비만"
+      }
+    ]
+  },
+  {
+    "word": "pregnant",
+    "ipa": "/ˈpreɡ.nənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "임신한"
+      }
+    ]
+  },
+  {
+    "word": "fatigue",
+    "ipa": "/fəˈtiːɡ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "피로"
+      }
+    ]
+  },
+  {
+    "word": "digestion",
+    "ipa": "/daɪˈdʒes.tʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "소화"
+      }
+    ]
+  },
+  {
+    "word": "have an effect on",
+    "ipa": "/hæv ən ɪˈfekt ɑːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "영향을 주다"
+      }
+    ]
+  },
+  {
+    "word": "suffer from",
+    "ipa": "/ˈsʌf.ər frʌm/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~으로 고통받다"
+      }
+    ]
+  },
+  {
+    "word": "scent",
+    "ipa": "/sent/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "향기"
+      }
+    ]
+  },
+  {
+    "word": "flavor",
+    "ipa": "/ˈfleɪ.vər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "맛"
+      }
+    ]
+  },
+  {
+    "word": "nutrient",
+    "ipa": "/ˈnuː.tri.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "영양소"
+      }
+    ]
+  },
+  {
+    "word": "fiber",
+    "ipa": "/ˈfaɪ.bər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "섬유질"
+      }
+    ]
+  },
+  {
+    "word": "stir",
+    "ipa": "/stɜːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "젓다"
+      }
+    ]
+  },
+  {
+    "word": "edible",
+    "ipa": "/ˈed.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "먹을 수 있는"
+      }
+    ]
+  },
+  {
+    "word": "spill",
+    "ipa": "/spɪl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "엎지르다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유출"
+      }
+    ]
+  },
+  {
+    "word": "recipe",
+    "ipa": "/ˈres.ə.pi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "요리법"
+      }
+    ]
+  },
+  {
+    "word": "portion",
+    "ipa": "/ˈpɔːr.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "부분, 1인분"
+      }
+    ]
+  },
+  {
+    "word": "dietary",
+    "ipa": "/ˈdaɪ.ə.ter.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "식이의, 음식물의, 식단의"
+      }
+    ]
+  },
+  {
+    "word": "starve",
+    "ipa": "/stɑːrv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "굶주리다"
+      }
+    ]
+  }
+]

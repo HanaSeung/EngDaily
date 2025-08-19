@@ -1,0 +1,285 @@
+[
+  {
+    "word": "modern",
+    "ipa": "/ˈmɑː.dɚn/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "현대의, 근대의" }
+    ]
+  },
+  {
+    "word": "contemporary",
+    "ipa": "/kənˈtem.pə.rer.i/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "현대의, 동시대의" },
+      { "partOfSpeech": "명사", "meaning": "동시대 사람" }
+    ]
+  },
+  {
+    "word": "urgent",
+    "ipa": "/ˈɝː.dʒənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "긴급한, 시급한" }
+    ]
+  },
+  {
+    "word": "relevant",
+    "ipa": "/ˈrel.ə.vənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "관련 있는, 적절한" }
+    ]
+  },
+  {
+    "word": "explicit",
+    "ipa": "/ɪkˈsplɪs.ɪt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "명백한, 분명한" }
+    ]
+  },
+  {
+    "word": "approve",
+    "ipa": "/əˈpruːv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "승인하다, 찬성하다" }
+    ]
+  },
+  {
+    "word": "confront",
+    "ipa": "/kənˈfrʌnt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "직면하다, 맞서다" }
+    ]
+  },
+  {
+    "word": "poverty",
+    "ipa": "/ˈpɑː.vɚ.t̬i/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "빈곤, 가난" }
+    ]
+  },
+  {
+    "word": "wealth",
+    "ipa": "/welθ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "부, 재산" }
+    ]
+  },
+  {
+    "word": "integrate",
+    "ipa": "/ˈɪn.t̬ə.ɡreɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "통합하다, 통합되다" }
+    ]
+  },
+  {
+    "word": "destructive",
+    "ipa": "/dɪˈstrʌk.tɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "파괴적인" }
+    ]
+  },
+  {
+    "word": "hierarchy",
+    "ipa": "/ˈhaɪ.rɑːr.ki/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "계층, 계급 제도" }
+    ]
+  },
+  {
+    "word": "expertise",
+    "ipa": "/ˌek.spɝːˈtiːz/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "전문 지식, 전문 기술" }
+    ]
+  },
+  {
+    "word": "reproduce",
+    "ipa": "/ˌriː.prəˈduːs/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "재생하다, 번식하다, 복제하다" }
+    ]
+  },
+  {
+    "word": "frequency",
+    "ipa": "/ˈfriː.kwən.si/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "빈도, 주파수" }
+    ]
+  },
+  {
+    "word": "identical",
+    "ipa": "/aɪˈden.t̬ə.kəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "동일한, 똑같은" }
+    ]
+  },
+  {
+    "word": "reinforce",
+    "ipa": "/ˌriː.ɪnˈfɔːrs/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "강화하다, 보강하다" }
+    ]
+  },
+  {
+    "word": "strengthen",
+    "ipa": "/ˈstreŋ.θən/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "강화하다, 튼튼하게 하다" }
+    ]
+  },
+  {
+    "word": "industrial",
+    "ipa": "/ɪnˈdʌs.tri.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "산업의, 공업의" }
+    ]
+  },
+  {
+    "word": "classify",
+    "ipa": "/ˈklæs.ə.faɪ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "분류하다" }
+    ]
+  },
+  {
+    "word": "mutual",
+    "ipa": "/ˈmjuː.tʃu.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "상호 간의, 서로의" }
+    ]
+  },
+  {
+    "word": "decorate",
+    "ipa": "/ˈdek.ə.reɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "장식하다" }
+    ]
+  },
+  {
+    "word": "potential",
+    "ipa": "/pəˈten.ʃəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "잠재적인" },
+      { "partOfSpeech": "명사", "meaning": "잠재력" }
+    ]
+  },
+  {
+    "word": "possibility",
+    "ipa": "/ˌpɑː.səˈbɪl.ə.t̬i/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "가능성" }
+    ]
+  },
+  {
+    "word": "implement",
+    "ipa": "/ˈɪm.plə.ment/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "시행하다, 실행하다" },
+      { "partOfSpeech": "명사", "meaning": "도구" }
+    ]
+  },
+  {
+    "word": "widespread",
+    "ipa": "/ˌwaɪdˈspred/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "널리 퍼진, 광범위한" }
+    ]
+  },
+  {
+    "word": "resemble",
+    "ipa": "/rɪˈzem.bəl/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "닮다" }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "ipa": "/ˌfʌn.dəˈmen.t̬əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "근본적인, 기본적인" }
+    ]
+  },
+  {
+    "word": "enthusiastic",
+    "ipa": "/ɪnˌθuː.ziˈæs.tɪk/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "열광적인, 열정적인" }
+    ]
+  },
+  {
+    "word": "consult",
+    "ipa": "/kənˈsʌlt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "상담하다, 참고하다, 의논하다" }
+    ]
+  },
+  {
+    "word": "disadvantage",
+    "ipa": "/ˌdɪs.ədˈvæn.t̬ɪdʒ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "불리한 점, 약점" }
+    ]
+  },
+  {
+    "word": "drawback",
+    "ipa": "/ˈdrɑː.bæk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "결점, 장애" }
+    ]
+  },
+  {
+    "word": "steady",
+    "ipa": "/ˈsted.i/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "꾸준한, 안정된" }
+    ]
+  },
+  {
+    "word": "primitive",
+    "ipa": "/ˈprɪm.ə.t̬ɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "원시의, 초기의" }
+    ]
+  },
+  {
+    "word": "dominant",
+    "ipa": "/ˈdɑː.mə.nənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "우세한, 지배적인" }
+    ]
+  },
+  {
+    "word": "inhabit",
+    "ipa": "/ɪnˈhæb.ɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "거주하다, 살다" }
+    ]
+  },
+  {
+    "word": "adolescence",
+    "ipa": "/ˌæd.əˈles.əns/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "청소년기" }
+    ]
+  },
+  {
+    "word": "attach",
+    "ipa": "/əˈtætʃ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "붙이다, 첨부하다" }
+    ]
+  },
+  {
+    "word": "in terms of",
+    "ipa": "/ɪn tɝːmz əv/",
+    "meanings": [
+      { "partOfSpeech": "숙어", "meaning": "~의 관점에서, ~에 관하여" }
+    ]
+  },
+  {
+    "word": "bring about",
+    "ipa": "/brɪŋ əˈbaʊt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "야기하다, 초래하다" }
+    ]
+  }
+]

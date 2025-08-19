@@ -1,0 +1,285 @@
+[
+  {
+    "word": "cherish",
+    "ipa": "/ˈtʃer.ɪʃ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "소중히 여기다" }
+    ]
+  },
+  {
+    "word": "rainforest",
+    "ipa": "/ˈreɪnˌfɔːr.ɪst/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "열대우림" }
+    ]
+  },
+  {
+    "word": "landscape",
+    "ipa": "/ˈlænd.skeɪp/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "풍경, 지형" }
+    ]
+  },
+  {
+    "word": "surface",
+    "ipa": "/ˈsɝː.fɪs/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "표면" }
+    ]
+  },
+  {
+    "word": "peak",
+    "ipa": "/piːk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "정상, 절정" }
+    ]
+  },
+  {
+    "word": "steep",
+    "ipa": "/stiːp/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "가파른" }
+    ]
+  },
+  {
+    "word": "incline",
+    "ipa": "/ˈɪn.klaɪn/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "경사면" },
+      { "partOfSpeech": "동사", "meaning": "~하는 경향이 있다" }
+    ]
+  },
+  {
+    "word": "cliff",
+    "ipa": "/klɪf/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "절벽" }
+    ]
+  },
+  {
+    "word": "suitable",
+    "ipa": "/ˈsuː.t̬ə.bəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "적합한" }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "ipa": "/ˈæt.mə.sfɪr/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "대기, 분위기" }
+    ]
+  },
+  {
+    "word": "endangered",
+    "ipa": "/ɪnˈdeɪn.dʒɚd/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "멸종 위기에 처한" }
+    ]
+  },
+  {
+    "word": "pollution",
+    "ipa": "/pəˈluː.ʃən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "오염" }
+    ]
+  },
+  {
+    "word": "fossil",
+    "ipa": "/ˈfɑː.səl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "화석" }
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "ipa": "/ˈiː.koʊˌsɪs.təm/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "생태계" }
+    ]
+  },
+  {
+    "word": "pesticide",
+    "ipa": "/ˈpes.tə.saɪd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "살충제" }
+    ]
+  },
+  {
+    "word": "landfill",
+    "ipa": "/ˈlænd.fɪl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "쓰레기 매립지" }
+    ]
+  },
+  {
+    "word": "purify",
+    "ipa": "/ˈpjʊr.ə.faɪ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "정화하다" }
+    ]
+  },
+  {
+    "word": "sweep",
+    "ipa": "/swiːp/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "쓸다, 청소하다" }
+    ]
+  },
+  {
+    "word": "litter",
+    "ipa": "/ˈlɪt̬.ɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "쓰레기" },
+      { "partOfSpeech": "동사", "meaning": "어질러 놓다" }
+    ]
+  },
+  {
+    "word": "acid",
+    "ipa": "/ˈæs.ɪd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "산성 물질" }
+    ]
+  },
+  {
+    "word": "threaten",
+    "ipa": "/ˈθret̬.ən/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "위협하다" }
+    ]
+  },
+  {
+    "word": "resource",
+    "ipa": "/ˈriː.sɔːrs/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "자원" }
+    ]
+  },
+  {
+    "word": "raw",
+    "ipa": "/rɑː/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "가공되지 않은, 날것의" }
+    ]
+  },
+  {
+    "word": "wasteful",
+    "ipa": "/ˈweɪst.fəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "낭비하는" }
+    ]
+  },
+  {
+    "word": "straw",
+    "ipa": "/strɑː/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "빨대, 짚" }
+    ]
+  },
+  {
+    "word": "remain",
+    "ipa": "/rɪˈmeɪn/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "남다, 여전히 ~이다" }
+    ]
+  },
+  {
+    "word": "utilize",
+    "ipa": "/ˈjuː.t̬əl.aɪz/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "활용하다" }
+    ]
+  },
+  {
+    "word": "recycle",
+    "ipa": "/ˌriːˈsaɪ.kəl/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "재활용하다" }
+    ]
+  },
+  {
+    "word": "conserve",
+    "ipa": "/kənˈsɝːv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "보존하다, 절약하다" }
+    ]
+  },
+  {
+    "word": "filter",
+    "ipa": "/ˈfɪl.tɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "필터" },
+      { "partOfSpeech": "동사", "meaning": "거르다, 여과하다" }
+    ]
+  },
+  {
+    "word": "generate",
+    "ipa": "/ˈdʒen.ə.reɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "생성하다, 만들어내다" }
+    ]
+  },
+  {
+    "word": "convert",
+    "ipa": "/kənˈvɝːt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "변환하다, 바꾸다" }
+    ]
+  },
+  {
+    "word": "transform",
+    "ipa": "/trænsˈfɔːrm/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "변형시키다, 변화시키다" }
+    ]
+  },
+  {
+    "word": "reduce",
+    "ipa": "/rɪˈduːs/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "줄이다, 감소시키다" }
+    ]
+  },
+  {
+    "word": "fragile",
+    "ipa": "/ˈfrædʒ.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "깨지기 쉬운, 연약한" }
+    ]
+  },
+  {
+    "word": "fabric",
+    "ipa": "/ˈfæb.rɪk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "직물, 천" }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "ipa": "/əˈkjuː.mjə.leɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "축적하다, 모으다" }
+    ]
+  },
+  {
+    "word": "discard",
+    "ipa": "/dɪˈskɑːrd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "버리다, 폐기하다" }
+    ]
+  },
+  {
+    "word": "dispose of",
+    "ipa": "/dɪˈspoʊz əv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~을 처리하다, 없애다" }
+    ]
+  },
+  {
+    "word": "(the) chances are (that)",
+    "ipa": "/ðə ˈtʃæn.sɪz ɑːr/",
+    "meanings": [
+      { "partOfSpeech": "숙어", "meaning": "아마도 ~일 것이다" }
+    ]
+  }
+]

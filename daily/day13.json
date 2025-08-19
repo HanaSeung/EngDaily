@@ -1,0 +1,414 @@
+[
+  {
+    "word": "applause",
+    "ipa": "/əˈplɔːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "박수"
+      }
+    ]
+  },
+  {
+    "word": "glance",
+    "ipa": "/ɡlæns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "흘끗 봄"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "흘끗 보다"
+      }
+    ]
+  },
+  {
+    "word": "crawl",
+    "ipa": "/krɔːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기어가다"
+      }
+    ]
+  },
+  {
+    "word": "hesitate",
+    "ipa": "/ˈhez.ə.teɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "주저하다"
+      }
+    ]
+  },
+  {
+    "word": "make sense of",
+    "ipa": "/meɪk sens əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "이해하다"
+      }
+    ]
+  },
+  {
+    "word": "eager",
+    "ipa": "/ˈiː.ɡər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "열망하는"
+      }
+    ]
+  },
+  {
+    "word": "impatient",
+    "ipa": "/ɪmˈpeɪ.ʃənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "참을성 없는"
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "ipa": "/fræŋk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "솔직한"
+      }
+    ]
+  },
+  {
+    "word": "arrogant",
+    "ipa": "/ˈer.ə.ɡənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "거만한"
+      }
+    ]
+  },
+  {
+    "word": "humble",
+    "ipa": "/ˈhʌm.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "겸손한"
+      }
+    ]
+  },
+  {
+    "word": "awkward",
+    "ipa": "/ˈɔː.kwərd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "어색한"
+      }
+    ]
+  },
+  {
+    "word": "sincere",
+    "ipa": "/sɪnˈsɪr/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "진실한"
+      }
+    ]
+  },
+  {
+    "word": "genuine",
+    "ipa": "/ˈdʒen.ju.ɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "진짜의"
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "ipa": "/ænˈtɪs.ə.peɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "예상하다"
+      }
+    ]
+  },
+  {
+    "word": "responsible",
+    "ipa": "/rɪˈspɑːn.sə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "책임이 있는"
+      }
+    ]
+  },
+  {
+    "word": "tolerate",
+    "ipa": "/ˈtɑːl.ə.reɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "참다"
+      }
+    ]
+  },
+  {
+    "word": "endure",
+    "ipa": "/ɪnˈdʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "견디다"
+      }
+    ]
+  },
+  {
+    "word": "put up with",
+    "ipa": "/pʊt ʌp wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "참다, 견디다"
+      }
+    ]
+  },
+  {
+    "word": "depression",
+    "ipa": "/dɪˈpreʃ.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "우울증"
+      }
+    ]
+  },
+  {
+    "word": "ashamed",
+    "ipa": "/əˈʃeɪmd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "부끄러운"
+      }
+    ]
+  },
+  {
+    "word": "delight",
+    "ipa": "/dɪˈlaɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기쁨"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기쁘게 하다"
+      }
+    ]
+  },
+  {
+    "word": "fascinated",
+    "ipa": "/ˈfæs.ən.eɪ.t̬ɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "매료된"
+      }
+    ]
+  },
+  {
+    "word": "resent",
+    "ipa": "/rɪˈzent/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "분개하다"
+      }
+    ]
+  },
+  {
+    "word": "irritate",
+    "ipa": "/ˈɪr.ə.teɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "짜증나게 하다"
+      }
+    ]
+  },
+  {
+    "word": "humiliate",
+    "ipa": "/hjuːˈmɪl.i.eɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "굴욕감을 주다"
+      }
+    ]
+  },
+  {
+    "word": "impulse",
+    "ipa": "/ˈɪm.pʌls/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "충동"
+      }
+    ]
+  },
+  {
+    "word": "reluctant",
+    "ipa": "/rɪˈlʌk.tənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "꺼리는"
+      }
+    ]
+  },
+  {
+    "word": "astonished",
+    "ipa": "/əˈstɑː.nɪʃt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "깜짝 놀란"
+      }
+    ]
+  },
+  {
+    "word": "miserable",
+    "ipa": "/ˈmɪz.ər.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "비참한"
+      }
+    ]
+  },
+  {
+    "word": "arouse",
+    "ipa": "/əˈraʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "불러일으키다"
+      }
+    ]
+  },
+  {
+    "word": "frustrated",
+    "ipa": "/ˈfrʌs.treɪ.t̬ɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "좌절한"
+      }
+    ]
+  },
+  {
+    "word": "empathy",
+    "ipa": "/ˈem.pə.θi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공감"
+      }
+    ]
+  },
+  {
+    "word": "offend",
+    "ipa": "/əˈfend/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기분 상하게 하다"
+      }
+    ]
+  },
+  {
+    "word": "compassion",
+    "ipa": "/kəmˈpæʃ.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "연민"
+      }
+    ]
+  },
+  {
+    "word": "despair",
+    "ipa": "/dɪˈsper/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "절망"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "절망하다"
+      }
+    ]
+  },
+  {
+    "word": "confident",
+    "ipa": "/ˈkɑːn.fə.dənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "자신감 있는"
+      }
+    ]
+  },
+  {
+    "word": "jealous",
+    "ipa": "/ˈdʒel.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "질투하는"
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "ipa": "/rɪˈdɪk.jə.ləs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "터무니없는"
+      }
+    ]
+  },
+  {
+    "word": "generous",
+    "ipa": "/ˈdʒen.ər.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "관대한"
+      }
+    ]
+  },
+  {
+    "word": "faithful",
+    "ipa": "/ˈfeɪθ.fəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "충실한, 신실한"
+      }
+    ]
+  }
+]

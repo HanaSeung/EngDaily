@@ -1,0 +1,298 @@
+[
+  {
+    "word": "address",
+    "ipa": "/ˈæd.res/ (n), /əˈdres/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "주소, 연설" },
+      { "partOfSpeech": "동사", "meaning": "말을 걸다, 연설하다, 다루다" }
+    ]
+  },
+  {
+    "word": "spring",
+    "ipa": "/sprɪŋ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "봄, 샘, 용수철" },
+      { "partOfSpeech": "동사", "meaning": "튀어 오르다" }
+    ]
+  },
+  {
+    "word": "board",
+    "ipa": "/bɔːrd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "판자, 이사회, 게시판" },
+      { "partOfSpeech": "동사", "meaning": "탑승하다" }
+    ]
+  },
+  {
+    "word": "block",
+    "ipa": "/blɑːk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "덩어리, 장애물" },
+      { "partOfSpeech": "동사", "meaning": "막다, 차단하다" }
+    ]
+  },
+  {
+    "word": "reason",
+    "ipa": "/ˈriː.zən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "이유, 이성" },
+      { "partOfSpeech": "동사", "meaning": "추론하다" }
+    ]
+  },
+  {
+    "word": "cover",
+    "ipa": "/ˈkʌv.ɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "덮다, 포함하다" },
+      { "partOfSpeech": "명사", "meaning": "덮개, 표지" }
+    ]
+  },
+  {
+    "word": "flat",
+    "ipa": "/flæt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "평평한, 납작한" },
+      { "partOfSpeech": "명사", "meaning": "아파트" }
+    ]
+  },
+  {
+    "word": "margin",
+    "ipa": "/ˈmɑːr.dʒɪn/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "여백, 차이, 수익" }
+    ]
+  },
+  {
+    "word": "issue",
+    "ipa": "/ˈɪʃ.uː/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "문제, 발행물" },
+      { "partOfSpeech": "동사", "meaning": "발행하다, 발표하다" }
+    ]
+  },
+  {
+    "word": "even",
+    "ipa": "/ˈiː.vən/",
+    "meanings": [
+      { "partOfSpeech": "부사", "meaning": "심지어" },
+      { "partOfSpeech": "형용사", "meaning": "평평한, 짝수의" }
+    ]
+  },
+  {
+    "word": "release",
+    "ipa": "/rɪˈliːs/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "석방하다, 출시하다" },
+      { "partOfSpeech": "명사", "meaning": "석방, 발표" }
+    ]
+  },
+  {
+    "word": "content",
+    "ipa": "/ˈkɑːn.tent/ (n), /kənˈtent/ (adj)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "내용물, 콘텐츠" },
+      { "partOfSpeech": "형용사", "meaning": "만족하는" }
+    ]
+  },
+  {
+    "word": "adapt",
+    "ipa": "/əˈdæpt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "적응하다, 각색하다" }
+    ]
+  },
+  {
+    "word": "adopt",
+    "ipa": "/əˈdɑːpt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "입양하다, 채택하다" }
+    ]
+  },
+  {
+    "word": "altitude",
+    "ipa": "/ˈæl.tə.tuːd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "고도, 높이" }
+    ]
+  },
+  {
+    "word": "aptitude",
+    "ipa": "/ˈæp.tə.tuːd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "소질, 적성" }
+    ]
+  },
+  {
+    "word": "attitude",
+    "ipa": "/ˈæt̬.ə.tuːd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "태도, 자세" }
+    ]
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈæk.ses/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "접근, 이용" },
+      { "partOfSpeech": "동사", "meaning": "접속하다, 접근하다" }
+    ]
+  },
+  {
+    "word": "excess",
+    "ipa": "/ɪkˈses/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "초과, 과잉" },
+      { "partOfSpeech": "형용사", "meaning": "여분의" }
+    ]
+  },
+  {
+    "word": "council",
+    "ipa": "/ˈkaʊn.səl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "의회, 위원회" }
+    ]
+  },
+  {
+    "word": "counsel",
+    "ipa": "/ˈkaʊn.səl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "조언, 변호인" },
+      { "partOfSpeech": "동사", "meaning": "조언하다" }
+    ]
+  },
+  {
+    "word": "flight",
+    "ipa": "/flaɪt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "비행, 항공편" }
+    ]
+  },
+  {
+    "word": "fright",
+    "ipa": "/fraɪt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "공포" }
+    ]
+  },
+  {
+    "word": "phase",
+    "ipa": "/feɪz/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "단계, 국면" }
+    ]
+  },
+  {
+    "word": "phrase",
+    "ipa": "/freɪz/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "구, 말" },
+      { "partOfSpeech": "동사", "meaning": "표현하다" }
+    ]
+  },
+  {
+    "word": "interpret",
+    "ipa": "/ɪnˈtɝː.prɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "해석하다, 통역하다" }
+    ]
+  },
+  {
+    "word": "interrupt",
+    "ipa": "/ˌɪn.t̬əˈrʌpt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "방해하다, 끼어들다" }
+    ]
+  },
+  {
+    "word": "moral",
+    "ipa": "/ˈmɔːr.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "도덕적인" },
+      { "partOfSpeech": "명사", "meaning": "교훈" }
+    ]
+  },
+  {
+    "word": "morale",
+    "ipa": "/məˈræl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "사기, 의욕" }
+    ]
+  },
+  {
+    "word": "mortal",
+    "ipa": "/ˈmɔːr.t̬əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "죽을 운명의, 치명적인" }
+    ]
+  },
+  {
+    "word": "affect",
+    "ipa": "/əˈfekt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "영향을 주다" }
+    ]
+  },
+  {
+    "word": "effect",
+    "ipa": "/ɪˈfekt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "효과, 영향" }
+    ]
+  },
+  {
+    "word": "mediate",
+    "ipa": "/ˈmiː.di.eɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "중재하다" }
+    ]
+  },
+  {
+    "word": "meditate",
+    "ipa": "/ˈmed.ɪ.teɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "명상하다, 깊이 생각하다" }
+    ]
+  },
+  {
+    "word": "simultaneously",
+    "ipa": "/ˌsaɪ.məlˈteɪ.ni.əs.li/",
+    "meanings": [
+      { "partOfSpeech": "부사", "meaning": "동시에" }
+    ]
+  },
+  {
+    "word": "spontaneously",
+    "ipa": "/spɑːnˈteɪ.ni.əs.li/",
+    "meanings": [
+      { "partOfSpeech": "부사", "meaning": "자발적으로" }
+    ]
+  },
+  {
+    "word": "comparative",
+    "ipa": "/kəmˈper.ə.t̬ɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "비교의, 상대적인" }
+    ]
+  },
+  {
+    "word": "competitive",
+    "ipa": "/kəmˈpet̬.ə.t̬ɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "경쟁의, 경쟁력 있는" }
+    ]
+  },
+  {
+    "word": "make up",
+    "ipa": "/meɪk ʌp/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "화해하다, 구성하다, 보상하다" }
+    ]
+  },
+  {
+    "word": "make up for",
+    "ipa": "/meɪk ʌp fɔːr/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~을 보상하다" }
+    ]
+  }
+]

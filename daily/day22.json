@@ -1,0 +1,422 @@
+[
+  {
+    "word": "psychology",
+    "ipa": "/saɪˈkɑː.lə.dʒi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "심리학"
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "ipa": "/rɪˈliːf/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "안도, 경감"
+      }
+    ]
+  },
+  {
+    "word": "mental",
+    "ipa": "/ˈmen.t̬əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "정신의"
+      }
+    ]
+  },
+  {
+    "word": "manipulate",
+    "ipa": "/məˈnɪp.jə.leɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조종하다, 다루다"
+      }
+    ]
+  },
+  {
+    "word": "uneasy",
+    "ipa": "/ʌnˈiː.zi/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "불안한, 불편한"
+      }
+    ]
+  },
+  {
+    "word": "frightened",
+    "ipa": "/ˈfraɪ.tənd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "겁먹은"
+      }
+    ]
+  },
+  {
+    "word": "afraid",
+    "ipa": "/əˈfreɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "두려워하는"
+      }
+    ]
+  },
+  {
+    "word": "illusion",
+    "ipa": "/ɪˈluː.ʒən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "환상, 착각"
+      }
+    ]
+  },
+  {
+    "word": "undergo",
+    "ipa": "/ˌʌn.dɚˈɡoʊ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "겪다, 경험하다"
+      }
+    ]
+  },
+  {
+    "word": "identify",
+    "ipa": "/aɪˈden.t̬ə.faɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "확인하다, 동일시하다"
+      }
+    ]
+  },
+  {
+    "word": "stress",
+    "ipa": "/stres/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "스트레스"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "강조하다"
+      }
+    ]
+  },
+  {
+    "word": "desperate",
+    "ipa": "/ˈdes.pɚ.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "절망적인, 필사적인"
+      }
+    ]
+  },
+  {
+    "word": "stable",
+    "ipa": "/ˈsteɪ.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "안정된"
+      }
+    ]
+  },
+  {
+    "word": "overwhelm",
+    "ipa": "/ˌoʊ.vɚˈwelm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "압도하다"
+      }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "ipa": "/æŋˈzaɪ.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "불안, 염려"
+      }
+    ]
+  },
+  {
+    "word": "burden",
+    "ipa": "/ˈbɝː.dən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "짐, 부담"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "짐 지우다"
+      }
+    ]
+  },
+  {
+    "word": "complex",
+    "ipa": "/ˈkɑːm.pleks/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "복잡한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "복합체, 강박관념"
+      }
+    ]
+  },
+  {
+    "word": "intend",
+    "ipa": "/ɪnˈtend/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "의도하다"
+      }
+    ]
+  },
+  {
+    "word": "sudden",
+    "ipa": "/ˈsʌd.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "갑작스러운"
+      }
+    ]
+  },
+  {
+    "word": "favorable",
+    "ipa": "/ˈfeɪ.vər.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "호의적인, 유리한"
+      }
+    ]
+  },
+  {
+    "word": "curiosity",
+    "ipa": "/ˌkjʊr.iˈɑː.sə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "호기심"
+      }
+    ]
+  },
+  {
+    "word": "innate",
+    "ipa": "/ɪˈneɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "타고난, 선천적인"
+      }
+    ]
+  },
+  {
+    "word": "ignorant",
+    "ipa": "/ˈɪɡ.nɚ.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "무지한, 무식한"
+      }
+    ]
+  },
+  {
+    "word": "associate",
+    "ipa": "/əˈsoʊ.ʃi.eɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "연관짓다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "동료"
+      }
+    ]
+  },
+  {
+    "word": "assumption",
+    "ipa": "/əˈsʌmp.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가정, 추정"
+      }
+    ]
+  },
+  {
+    "word": "distraction",
+    "ipa": "/dɪˈstræk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "집중을 방해하는 것"
+      }
+    ]
+  },
+  {
+    "word": "subjective",
+    "ipa": "/səbˈdʒek.tɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "주관적인"
+      }
+    ]
+  },
+  {
+    "word": "end up -ing",
+    "ipa": "/end ʌp/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "~하게 되다"
+      }
+    ]
+  },
+  {
+    "word": "interfere",
+    "ipa": "/ˌɪn.t̬ɚˈfɪr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "간섭하다, 방해하다"
+      }
+    ]
+  },
+  {
+    "word": "intervene",
+    "ipa": "/ˌɪn.t̬ɚˈviːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "개입하다"
+      }
+    ]
+  },
+  {
+    "word": "exclude",
+    "ipa": "/ɪkˈskluːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제외하다"
+      }
+    ]
+  },
+  {
+    "word": "persuade",
+    "ipa": "/pɚˈsweɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설득하다"
+      }
+    ]
+  },
+  {
+    "word": "convince",
+    "ipa": "/kənˈvɪns/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "납득시키다, 확신시키다"
+      }
+    ]
+  },
+  {
+    "word": "ensure",
+    "ipa": "/ɪnˈʃʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "보장하다"
+      }
+    ]
+  },
+  {
+    "word": "cheat",
+    "ipa": "/tʃiːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "속이다, 부정행위를 하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "속이는 사람"
+      }
+    ]
+  },
+  {
+    "word": "boost",
+    "ipa": "/buːst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "증가시키다, 북돋우다"
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "ipa": "/əˈtrɪb.juːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "~의 결과로 보다"
+      }
+    ]
+  },
+  {
+    "word": "skeptical",
+    "ipa": "/ˈskep.tɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "회의적인"
+      }
+    ]
+  },
+  {
+    "word": "optimistic",
+    "ipa": "/ˌɑːp.təˈmɪs.tɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "낙관적인"
+      }
+    ]
+  },
+  {
+    "word": "out of place",
+    "ipa": "/aʊt əv pleɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "어울리지 않는, 부적절한"
+      }
+    ]
+  }
+]

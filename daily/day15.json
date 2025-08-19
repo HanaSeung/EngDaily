@@ -1,0 +1,450 @@
+[
+  {
+    "word": "dominate",
+    "ipa": "/ˈdɑː.mə.neɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "지배하다"
+      }
+    ]
+  },
+  {
+    "word": "govern",
+    "ipa": "/ˈɡʌv.ərn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "통치하다"
+      }
+    ]
+  },
+  {
+    "word": "domestic",
+    "ipa": "/dəˈmes.tɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "국내의, 가정의"
+      }
+    ]
+  },
+  {
+    "word": "territory",
+    "ipa": "/ˈter.ə.tɔːr.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "영토"
+      }
+    ]
+  },
+  {
+    "word": "wield",
+    "ipa": "/wiːld/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "휘두르다, 행사하다"
+      }
+    ]
+  },
+  {
+    "word": "region",
+    "ipa": "/ˈriː.dʒən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "지역"
+      }
+    ]
+  },
+  {
+    "word": "immigration",
+    "ipa": "/ˌɪm.əˈɡreɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이민"
+      }
+    ]
+  },
+  {
+    "word": "diplomat",
+    "ipa": "/ˈdɪp.lə.mæt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "외교관"
+      }
+    ]
+  },
+  {
+    "word": "candidate",
+    "ipa": "/ˈkæn.dɪ.dət/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "후보자"
+      }
+    ]
+  },
+  {
+    "word": "compromise",
+    "ipa": "/ˈkɑːm.prə.maɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "타협하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "타협"
+      }
+    ]
+  },
+  {
+    "word": "radical",
+    "ipa": "/ˈræd.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "급진적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "급진주의자"
+      }
+    ]
+  },
+  {
+    "word": "administration",
+    "ipa": "/ədˌmɪn.əˈstreɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "행정, 관리"
+      }
+    ]
+  },
+  {
+    "word": "executive",
+    "ipa": "/ɪɡˈzek.jə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "간부, 경영진"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "임원의, 집행의"
+      }
+    ]
+  },
+  {
+    "word": "refuge",
+    "ipa": "/ˈref.juːdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "피난처"
+      }
+    ]
+  },
+  {
+    "word": "authority",
+    "ipa": "/əˈθɔːr.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "권위"
+      }
+    ]
+  },
+  {
+    "word": "democracy",
+    "ipa": "/dɪˈmɑː.krə.si/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "민주주의"
+      }
+    ]
+  },
+  {
+    "word": "in charge of",
+    "ipa": "/ɪn ʧɑːrdʒ əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~을 책임지는"
+      }
+    ]
+  },
+  {
+    "word": "suspect",
+    "ipa": "/səˈspekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "의심하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "용의자"
+      }
+    ]
+  },
+  {
+    "word": "sue",
+    "ipa": "/suː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고소하다"
+      }
+    ]
+  },
+  {
+    "word": "violate",
+    "ipa": "/ˈvaɪ.ə.leɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "위반하다"
+      }
+    ]
+  },
+  {
+    "word": "patent",
+    "ipa": "/ˈpæt.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "특허"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "명백한"
+      }
+    ]
+  },
+  {
+    "word": "equivalent",
+    "ipa": "/ɪˈkwɪv.ə.lənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "동등한, 상응하는"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "동등한 것"
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "ipa": "/ˈwɪt.nəs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "목격자"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "목격하다"
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "ipa": "/praɪˈɔːr.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "우선순위"
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "ipa": "/bæn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "금지하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "금지"
+      }
+    ]
+  },
+  {
+    "word": "imprison",
+    "ipa": "/ɪmˈprɪz.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "투옥하다"
+      }
+    ]
+  },
+  {
+    "word": "justify",
+    "ipa": "/ˈdʒʌs.t̬ə.faɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "정당화하다"
+      }
+    ]
+  },
+  {
+    "word": "privilege",
+    "ipa": "/ˈprɪv.əl.ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "특권"
+      }
+    ]
+  },
+  {
+    "word": "dispute",
+    "ipa": "/dɪˈspjuːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "분쟁"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "논쟁하다"
+      }
+    ]
+  },
+  {
+    "word": "regardless of",
+    "ipa": "/rɪˈɡɑːrd.ləs əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~에 상관없이"
+      }
+    ]
+  },
+  {
+    "word": "fund",
+    "ipa": "/fʌnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "자금, 기금"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "자금을 지원하다"
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "ipa": "/prəˈmoʊt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "촉진하다, 승진시키다"
+      }
+    ]
+  },
+  {
+    "word": "owe",
+    "ipa": "/oʊ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "빚지다"
+      }
+    ]
+  },
+  {
+    "word": "debt",
+    "ipa": "/det/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "빚"
+      }
+    ]
+  },
+  {
+    "word": "commission",
+    "ipa": "/kəˈmɪʃ.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "수수료, 위원회"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "위임하다"
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "ipa": "/ˈriː.fʌnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "환불"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "환불하다"
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "ipa": "/dɪˈstrɪb.juːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "분배하다"
+      }
+    ]
+  },
+  {
+    "word": "property",
+    "ipa": "/ˈprɑː.pər.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "재산, 소유물"
+      }
+    ]
+  },
+  {
+    "word": "commodity",
+    "ipa": "/kəˈmɑː.də.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상품, 물품"
+      }
+    ]
+  },
+  {
+    "word": "industrialize",
+    "ipa": "/ɪnˈdʌs.tri.ə.laɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "산업화하다"
+      }
+    ]
+  }
+]

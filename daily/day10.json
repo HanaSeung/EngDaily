@@ -1,0 +1,434 @@
+[
+  {
+    "word": "obvious",
+    "ipa": "/ˈɑːb.vi.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "분명한, 명백한"
+      }
+    ]
+  },
+  {
+    "word": "apparent",
+    "ipa": "/əˈper.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "명백한, 외관상의"
+      }
+    ]
+  },
+  {
+    "word": "persist",
+    "ipa": "/pərˈsɪst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "지속하다, 고집하다"
+      }
+    ]
+  },
+  {
+    "word": "temporary",
+    "ipa": "/ˈtem.pər.er.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "일시적인"
+      }
+    ]
+  },
+  {
+    "word": "permanent",
+    "ipa": "/ˈpɜːr.mə.nənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "영구적인"
+      }
+    ]
+  },
+  {
+    "word": "rescue",
+    "ipa": "/ˈres.kjuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "구조하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "구조"
+      }
+    ]
+  },
+  {
+    "word": "embrace",
+    "ipa": "/ɪmˈbreɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "껴안다, 포용하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "포옹"
+      }
+    ]
+  },
+  {
+    "word": "tremble",
+    "ipa": "/ˈtrem.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "떨다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "떨림"
+      }
+    ]
+  },
+  {
+    "word": "ancestor",
+    "ipa": "/ˈæn.ses.tər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "조상"
+      }
+    ]
+  },
+  {
+    "word": "cautious",
+    "ipa": "/ˈkɔː.ʃəs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "조심스러운"
+      }
+    ]
+  },
+  {
+    "word": "clarify",
+    "ipa": "/ˈkler.ə.faɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "명확히 하다"
+      }
+    ]
+  },
+  {
+    "word": "drag",
+    "ipa": "/dræɡ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "끌다"
+      }
+    ]
+  },
+  {
+    "word": "horizontal",
+    "ipa": "/ˌhɔːr.əˈzɑːn.təl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "수평의"
+      }
+    ]
+  },
+  {
+    "word": "vertical",
+    "ipa": "/ˈvɜːr.t̬ə.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "수직의"
+      }
+    ]
+  },
+  {
+    "word": "remarkable",
+    "ipa": "/rɪˈmɑːr.kə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "주목할 만한"
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "ipa": "/ˌɪn.dəˈvɪdʒ.u.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "개인"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "개별의"
+      }
+    ]
+  },
+  {
+    "word": "memorize",
+    "ipa": "/ˈmem.ə.raɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "암기하다"
+      }
+    ]
+  },
+  {
+    "word": "retire",
+    "ipa": "/rɪˈtaɪər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "은퇴하다"
+      }
+    ]
+  },
+  {
+    "word": "athlete",
+    "ipa": "/ˈæθ.liːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "운동선수"
+      }
+    ]
+  },
+  {
+    "word": "victim",
+    "ipa": "/ˈvɪk.t̬ɪm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "희생자"
+      }
+    ]
+  },
+  {
+    "word": "aboard",
+    "ipa": "/əˈbɔːrd/",
+    "meanings": [
+      {
+        "partOfSpeech": "부사",
+        "meaning": "탑승하여"
+      },
+      {
+        "partOfSpeech": "전치사",
+        "meaning": "~에 탑승한"
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "ipa": "/dɪˈpɑːr.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "출발"
+      }
+    ]
+  },
+  {
+    "word": "broaden",
+    "ipa": "/ˈbrɔː.dən/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "넓히다"
+      }
+    ]
+  },
+  {
+    "word": "extend",
+    "ipa": "/ɪkˈstend/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "연장하다, 확장하다"
+      }
+    ]
+  },
+  {
+    "word": "sacrifice",
+    "ipa": "/ˈsæk.rə.faɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "희생"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "희생하다"
+      }
+    ]
+  },
+  {
+    "word": "devise",
+    "ipa": "/dɪˈvaɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고안하다"
+      }
+    ]
+  },
+  {
+    "word": "electricity",
+    "ipa": "/ɪˌlek.ˈtrɪs.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "전기"
+      }
+    ]
+  },
+  {
+    "word": "logical",
+    "ipa": "/ˈlɑː.dʒɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "논리적인"
+      }
+    ]
+  },
+  {
+    "word": "inherit",
+    "ipa": "/ɪnˈher.ɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "물려받다"
+      }
+    ]
+  },
+  {
+    "word": "length",
+    "ipa": "/leŋθ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "길이"
+      }
+    ]
+  },
+  {
+    "word": "initial",
+    "ipa": "/ɪˈnɪʃ.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "처음의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이니셜"
+      }
+    ]
+  },
+  {
+    "word": "qualified",
+    "ipa": "/ˈkwɑː.lə.faɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "자격 있는"
+      }
+    ]
+  },
+  {
+    "word": "reform",
+    "ipa": "/rɪˈfɔːrm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "개혁하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "개혁"
+      }
+    ]
+  },
+  {
+    "word": "regulate",
+    "ipa": "/ˈreɡ.jə.leɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "규제하다"
+      }
+    ]
+  },
+  {
+    "word": "delicate",
+    "ipa": "/ˈdel.ə.kət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "섬세한"
+      }
+    ]
+  },
+  {
+    "word": "resist",
+    "ipa": "/rɪˈzɪst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "저항하다"
+      }
+    ]
+  },
+  {
+    "word": "restrict",
+    "ipa": "/rɪˈstrɪkt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제한하다"
+      }
+    ]
+  },
+  {
+    "word": "possess",
+    "ipa": "/pəˈzes/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "소유하다"
+      }
+    ]
+  },
+  {
+    "word": "be related to",
+    "ipa": "/biː rɪˈleɪ.t̬ɪd tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~와 관련되다"
+      }
+    ]
+  },
+  {
+    "word": "contribute to",
+    "ipa": "/kənˈtrɪb.juːt tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~에 기여하다"
+      }
+    ]
+  }
+]

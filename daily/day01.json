@@ -1,0 +1,462 @@
+[
+  {
+    "word": "include",
+    "ipa": "/ɪnˈkluːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "포함하다"
+      }
+    ]
+  },
+  {
+    "word": "produce",
+    "ipa": "/prəˈduːs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "생산하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "농산물"
+      }
+    ]
+  },
+  {
+    "word": "belief",
+    "ipa": "/bɪˈliːf/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "믿음"
+      }
+    ]
+  },
+  {
+    "word": "similar",
+    "ipa": "/ˈsɪmələr/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "비슷한"
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "ipa": "/ˈmoʊmənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "순간"
+      }
+    ]
+  },
+  {
+    "word": "situation",
+    "ipa": "/ˌsɪtʃuˈeɪʃn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상황"
+      }
+    ]
+  },
+  {
+    "word": "improve",
+    "ipa": "/ɪnˈpruːv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "향상시키다"
+      }
+    ]
+  },
+  {
+    "word": "increase",
+    "ipa": "/ɪnˈkriːs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "증가하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "증가"
+      }
+    ]
+  },
+  {
+    "word": "decrease",
+    "ipa": "/dɪˈkriːs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "감소하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "감소"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "ipa": "/ʃer/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "공유하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "몫, 지분"
+      }
+    ]
+  },
+  {
+    "word": "emotion",
+    "ipa": "/ɪˈmoʊʃn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "감정"
+      }
+    ]
+  },
+  {
+    "word": "common",
+    "ipa": "/ˈkɑːmən/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "공통의"
+      }
+    ]
+  },
+  {
+    "word": "recover",
+    "ipa": "/rɪˈkʌvər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "회복하다"
+      }
+    ]
+  },
+  {
+    "word": "advanced",
+    "ipa": "/ədˈvænst/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "진보한"
+      }
+    ]
+  },
+  {
+    "word": "indifferent",
+    "ipa": "/ɪnˈdɪfrənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "무관심한"
+      }
+    ]
+  },
+  {
+    "word": "reject",
+    "ipa": "/rɪˈdʒekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "거절하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "불량품"
+      }
+    ]
+  },
+  {
+    "word": "refuse",
+    "ipa": "/rɪˈfjuːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "거부하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "쓰레기"
+      }
+    ]
+  },
+  {
+    "word": "accept",
+    "ipa": "/əkˈsept/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "받아들이다"
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "ipa": "/ɪkˈspɪriəns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "경험"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "경험하다"
+      }
+    ]
+  },
+  {
+    "word": "certain",
+    "ipa": "/ˈsɜːrtn/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "확실한"
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "ipa": "/kənˈsɪdər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고려하다"
+      }
+    ]
+  },
+  {
+    "word": "supply",
+    "ipa": "/səˈplaɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "공급하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공급"
+      }
+    ]
+  },
+  {
+    "word": "provide",
+    "ipa": "/prəˈvaɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제공하다"
+      }
+    ]
+  },
+  {
+    "word": "practical",
+    "ipa": "/ˈpræktɪkl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "실용적인"
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "ipa": "/ɪkˈspres/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "표현하다"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "급행의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "급행열차"
+      }
+    ]
+  },
+  {
+    "word": "quantity",
+    "ipa": "/ˈkwɑːntəti/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "양"
+      }
+    ]
+  },
+  {
+    "word": "superior",
+    "ipa": "/suːˈpɪriər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "우수한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상급자"
+      }
+    ]
+  },
+  {
+    "word": "inferior",
+    "ipa": "/ɪnˈfɪriər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "열등한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "하급자"
+      }
+    ]
+  },
+  {
+    "word": "seek",
+    "ipa": "/siːk/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "찾다"
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "ipa": "/eɪm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "목표하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "목표"
+      }
+    ]
+  },
+  {
+    "word": "fade",
+    "ipa": "/feɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "희미해지다"
+      }
+    ]
+  },
+  {
+    "word": "disappear",
+    "ipa": "/ˌdɪsəˈpɪr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "사라지다"
+      }
+    ]
+  },
+  {
+    "word": "emerge",
+    "ipa": "/ɪˈmɜːrdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "나타나다"
+      }
+    ]
+  },
+  {
+    "word": "grief",
+    "ipa": "/ɡriːf/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "슬픔"
+      }
+    ]
+  },
+  {
+    "word": "slight",
+    "ipa": "/slaɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "약간의"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "무시하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "무시"
+      }
+    ]
+  },
+  {
+    "word": "success",
+    "ipa": "/səkˈses/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "성공"
+      }
+    ]
+  },
+  {
+    "word": "failure",
+    "ipa": "/ˈfeɪljər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "실패"
+      }
+    ]
+  },
+  {
+    "word": "run into",
+    "ipa": "/rʌn ˈɪntu/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "우연히 만나다"
+      }
+    ]
+  },
+  {
+    "word": "depend on",
+    "ipa": "/dɪˈpend ɑːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~에 의존하다"
+      }
+    ]
+  },
+  {
+    "word": "carry out",
+    "ipa": "/ˈkæri aʊt/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "수행하다"
+      }
+    ]
+  }
+]

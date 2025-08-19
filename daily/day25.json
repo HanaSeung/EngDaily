@@ -1,0 +1,288 @@
+[
+  {
+    "word": "climate",
+    "ipa": "/ˈklaɪ.mət/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "기후" }
+    ]
+  },
+  {
+    "word": "freeze",
+    "ipa": "/friːz/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "얼다, 얼리다" }
+    ]
+  },
+  {
+    "word": "melt",
+    "ipa": "/melt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "녹다, 녹이다" }
+    ]
+  },
+  {
+    "word": "wave",
+    "ipa": "/weɪv/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "파도, 물결" },
+      { "partOfSpeech": "동사", "meaning": "손을 흔들다" }
+    ]
+  },
+  {
+    "word": "humid",
+    "ipa": "/ˈhjuː.mɪd/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "습한" }
+    ]
+  },
+  {
+    "word": "temperate",
+    "ipa": "/ˈtem.pɚ.ət/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "온화한, 절제하는" }
+    ]
+  },
+  {
+    "word": "sufficient",
+    "ipa": "/səˈfɪʃ.ənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "충분한" }
+    ]
+  },
+  {
+    "word": "tropical",
+    "ipa": "/ˈtrɑː.pɪ.kəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "열대의" }
+    ]
+  },
+  {
+    "word": "intense",
+    "ipa": "/ɪnˈtens/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "강렬한" }
+    ]
+  },
+  {
+    "word": "fierce",
+    "ipa": "/fɪrs/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "사나운, 맹렬한" }
+    ]
+  },
+  {
+    "word": "light",
+    "ipa": "/laɪt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "빛" },
+      { "partOfSpeech": "형용사", "meaning": "가벼운, 밝은" }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fəˈnɑː.mə.nɑːn/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "현상" }
+    ]
+  },
+  {
+    "word": "creature",
+    "ipa": "/ˈkriː.tʃɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "생물, 창조물" }
+    ]
+  },
+  {
+    "word": "tide",
+    "ipa": "/taɪd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "조수, 물결" }
+    ]
+  },
+  {
+    "word": "shadow",
+    "ipa": "/ˈʃæd.oʊ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "그림자" }
+    ]
+  },
+  {
+    "word": "float",
+    "ipa": "/floʊt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "뜨다, 떠다니다" }
+    ]
+  },
+  {
+    "word": "earthquake",
+    "ipa": "/ˈɝːθ.kweɪk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "지진" }
+    ]
+  },
+  {
+    "word": "eruption",
+    "ipa": "/ɪˈrʌp.ʃən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "폭발, 분출" }
+    ]
+  },
+  {
+    "word": "drought",
+    "ipa": "/draʊt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "가뭄" }
+    ]
+  },
+  {
+    "word": "originate",
+    "ipa": "/əˈrɪdʒ.ən.eɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "유래하다, 시작되다" }
+    ]
+  },
+  {
+    "word": "hatch",
+    "ipa": "/hætʃ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "부화하다" }
+    ]
+  },
+  {
+    "word": "agriculture",
+    "ipa": "/ˈæɡ.rə.kʌl.tʃɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "농업" }
+    ]
+  },
+  {
+    "word": "ripe",
+    "ipa": "/raɪp/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "익은, 성숙한" }
+    ]
+  },
+  {
+    "word": "cultivate",
+    "ipa": "/ˈkʌl.tə.veɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "경작하다, 기르다" }
+    ]
+  },
+  {
+    "word": "crop",
+    "ipa": "/krɑːp/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "농작물" }
+    ]
+  },
+  {
+    "word": "harvest",
+    "ipa": "/ˈhɑːr.vəst/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "수확" },
+      { "partOfSpeech": "동사", "meaning": "수확하다" }
+    ]
+  },
+  {
+    "word": "annual",
+    "ipa": "/ˈæn.ju.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "매년의, 연례의" }
+    ]
+  },
+  {
+    "word": "folk",
+    "ipa": "/foʊk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "사람들, 민속의" }
+    ]
+  },
+  {
+    "word": "native",
+    "ipa": "/ˈneɪ.t̬ɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "토착의, 태어난" },
+      { "partOfSpeech": "명사", "meaning": "원주민" }
+    ]
+  },
+  {
+    "word": "resistant",
+    "ipa": "/rɪˈzɪs.tənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "저항하는, 견디는" }
+    ]
+  },
+  {
+    "word": "durable",
+    "ipa": "/ˈdʊr.ə.bəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "내구성이 있는" }
+    ]
+  },
+  {
+    "word": "transplant",
+    "ipa": "/trænsˈplænt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "이식하다, 옮겨 심다" },
+      { "partOfSpeech": "명사", "meaning": "이식" }
+    ]
+  },
+  {
+    "word": "enrich",
+    "ipa": "/ɪnˈrɪtʃ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "풍요롭게 하다" }
+    ]
+  },
+  {
+    "word": "fertile",
+    "ipa": "/ˈfɝː.t̬əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "비옥한" }
+    ]
+  },
+  {
+    "word": "barren",
+    "ipa": "/ˈber.ən/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "척박한, 불모의" }
+    ]
+  },
+  {
+    "word": "drain",
+    "ipa": "/dreɪn/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "물을 빼내다, 소모시키다" }
+    ]
+  },
+  {
+    "word": "pest",
+    "ipa": "/pest/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "해충" }
+    ]
+  },
+  {
+    "word": "weed",
+    "ipa": "/wiːd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "잡초" },
+      { "partOfSpeech": "동사", "meaning": "잡초를 제거하다" }
+    ]
+  },
+  {
+    "word": "take over",
+    "ipa": "/teɪk ˈoʊ.vɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "인수하다, 장악하다" }
+    ]
+  },
+  {
+    "word": "take advantage of",
+    "ipa": "/teɪk ədˈvæn.tɪdʒ əv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~을 이용하다" }
+    ]
+  }
+]

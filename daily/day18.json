@@ -1,0 +1,450 @@
+[
+  {
+    "word": "creative",
+    "ipa": "/kriˈeɪ.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "창의적인"
+      }
+    ]
+  },
+  {
+    "word": "abstract",
+    "ipa": "/ˈæb.strækt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "추상적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "요약"
+      }
+    ]
+  },
+  {
+    "word": "concrete",
+    "ipa": "/ˈkɑːŋ.kriːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "구체적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "콘크리트"
+      }
+    ]
+  },
+  {
+    "word": "masterpiece",
+    "ipa": "/ˈmæs.tər.piːs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "걸작"
+      }
+    ]
+  },
+  {
+    "word": "polish",
+    "ipa": "/ˈpɑː.lɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "닦다, 윤내다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "광택제"
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "ipa": "/kræft/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공예, 기술"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "만들다"
+      }
+    ]
+  },
+  {
+    "word": "authentic",
+    "ipa": "/ɔːˈθen.t̬ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "진짜의"
+      }
+    ]
+  },
+  {
+    "word": "precious",
+    "ipa": "/ˈpreʃ.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "귀중한"
+      }
+    ]
+  },
+  {
+    "word": "proportion",
+    "ipa": "/prəˈpɔːr.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "비율"
+      }
+    ]
+  },
+  {
+    "word": "portrait",
+    "ipa": "/ˈpɔːr.trət/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "초상화"
+      }
+    ]
+  },
+  {
+    "word": "play a role (in)",
+    "ipa": "/pleɪ ə roʊl/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "역할을 하다"
+      }
+    ]
+  },
+  {
+    "word": "elaborate",
+    "ipa": "/ɪˈlæb.ər.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "정교한, 공들인"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "자세히 설명하다"
+      }
+    ]
+  },
+  {
+    "word": "external",
+    "ipa": "/ɪkˈstɜːr.nəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "외부의"
+      }
+    ]
+  },
+  {
+    "word": "internal",
+    "ipa": "/ɪnˈtɜːr.nəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "내부의"
+      }
+    ]
+  },
+  {
+    "word": "memorial",
+    "ipa": "/məˈmɔːr.i.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기념물"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "기념의"
+      }
+    ]
+  },
+  {
+    "word": "differ",
+    "ipa": "/ˈdɪf.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "다르다"
+      }
+    ]
+  },
+  {
+    "word": "distinguish",
+    "ipa": "/dɪˈstɪŋ.ɡwɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "구별하다"
+      }
+    ]
+  },
+  {
+    "word": "contrast",
+    "ipa": "/ˈkɑːn.træst/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "대조, 대비"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "대조하다"
+      }
+    ]
+  },
+  {
+    "word": "architect",
+    "ipa": "/ˈɑːr.kə.tekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "건축가"
+      }
+    ]
+  },
+  {
+    "word": "institute",
+    "ipa": "/ˈɪn.stə.tuːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기관, 협회"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설립하다"
+      }
+    ]
+  },
+  {
+    "word": "coordinate",
+    "ipa": "/koʊˈɔːr.də.neɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조정하다, 조직하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "좌표"
+      }
+    ]
+  },
+  {
+    "word": "collapse",
+    "ipa": "/kəˈlæps/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "무너지다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "붕괴"
+      }
+    ]
+  },
+  {
+    "word": "amuse",
+    "ipa": "/əˈmjuːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "즐겁게 하다"
+      }
+    ]
+  },
+  {
+    "word": "entertain",
+    "ipa": "/ˌen.t̬ərˈteɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "즐겁게 하다"
+      }
+    ]
+  },
+  {
+    "word": "compose",
+    "ipa": "/kəmˈpoʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "작곡하다, 구성하다"
+      }
+    ]
+  },
+  {
+    "word": "orchestra",
+    "ipa": "/ˈɔːr.kə.strə/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "관현악단"
+      }
+    ]
+  },
+  {
+    "word": "rehearse",
+    "ipa": "/rɪˈhɜːrs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "예행연습하다"
+      }
+    ]
+  },
+  {
+    "word": "popularity",
+    "ipa": "/ˌpɑː.pjəˈler.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "인기"
+      }
+    ]
+  },
+  {
+    "word": "perform",
+    "ipa": "/pərˈfɔːrm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "공연하다"
+      }
+    ]
+  },
+  {
+    "word": "impressive",
+    "ipa": "/ɪmˈpres.ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "인상적인"
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "ipa": "/flæʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "번쩍이다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "번쩍임, 섬광"
+      }
+    ]
+  },
+  {
+    "word": "harmonize",
+    "ipa": "/ˈhɑːr.mə.naɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "조화를 이루다"
+      }
+    ]
+  },
+  {
+    "word": "encounter",
+    "ipa": "/ɪnˈkaʊn.t̬ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "우연히 마주치다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "만남"
+      }
+    ]
+  },
+  {
+    "word": "socialize",
+    "ipa": "/ˈsoʊ.ʃəl.aɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "사귀다, 어울리다"
+      }
+    ]
+  },
+  {
+    "word": "imaginative",
+    "ipa": "/ɪˈmædʒ.ə.nə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "상상력이 풍부한"
+      }
+    ]
+  },
+  {
+    "word": "magical",
+    "ipa": "/ˈmædʒ.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "마법 같은"
+      }
+    ]
+  },
+  {
+    "word": "theme",
+    "ipa": "/θiːm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "주제"
+      }
+    ]
+  },
+  {
+    "word": "entrance",
+    "ipa": "/ˈen.trəns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "입구"
+      }
+    ]
+  },
+  {
+    "word": "classical",
+    "ipa": "/ˈklæs.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "고전적인"
+      }
+    ]
+  },
+  {
+    "word": "be associated with",
+    "ipa": "/biː əˈsoʊ.si.eɪ.t̬ɪd wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~와 관련되다"
+      }
+    ]
+  }
+]

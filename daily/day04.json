@@ -1,0 +1,442 @@
+[
+  {
+    "word": "circumstance",
+    "ipa": "/ˈsɜːr.kəm.stæns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "상황, 환경"
+      }
+    ]
+  },
+  {
+    "word": "environment",
+    "ipa": "/ɪnˈvaɪ.rən.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "환경"
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "ipa": "/ˈæk.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "활동적인"
+      }
+    ]
+  },
+  {
+    "word": "community",
+    "ipa": "/kəˈmjuː.nə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "공동체"
+      }
+    ]
+  },
+  {
+    "word": "necessity",
+    "ipa": "/nəˈses.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "필요성"
+      }
+    ]
+  },
+  {
+    "word": "effort",
+    "ipa": "/ˈef.ərt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "노력"
+      }
+    ]
+  },
+  {
+    "word": "participation",
+    "ipa": "/pɑːrˌt̬ɪs.əˈpeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "참여"
+      }
+    ]
+  },
+  {
+    "word": "regular",
+    "ipa": "/ˈreɡ.jə.lər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "규칙적인"
+      }
+    ]
+  },
+  {
+    "word": "development",
+    "ipa": "/dɪˈvel.əp.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "발전"
+      }
+    ]
+  },
+  {
+    "word": "progress",
+    "ipa": "/ˈprɑː.ɡres/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "진보, 발전"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "진전하다"
+      }
+    ]
+  },
+  {
+    "word": "permit",
+    "ipa": "/pərˈmɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "허락하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "허가증"
+      }
+    ]
+  },
+  {
+    "word": "forbid",
+    "ipa": "/fərˈbɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "금지하다"
+      }
+    ]
+  },
+  {
+    "word": "emission",
+    "ipa": "/iˈmɪʃ.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "배출"
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pərˈspek.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "관점"
+      }
+    ]
+  },
+  {
+    "word": "conservative",
+    "ipa": "/kənˈsɜːr.və.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "보수적인"
+      }
+    ]
+  },
+  {
+    "word": "entire",
+    "ipa": "/ɪnˈtaɪər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "전체의"
+      }
+    ]
+  },
+  {
+    "word": "measure",
+    "ipa": "/ˈmeʒ.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "측정하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "조치"
+      }
+    ]
+  },
+  {
+    "word": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "유지하다"
+      }
+    ]
+  },
+  {
+    "word": "support",
+    "ipa": "/səˈpɔːrt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "지지하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "지지"
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "ipa": "/prɪˈvent/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "막다"
+      }
+    ]
+  },
+  {
+    "word": "occur",
+    "ipa": "/əˈkɜːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "발생하다"
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "ipa": "/ˈpæʃ.ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "열정"
+      }
+    ]
+  },
+  {
+    "word": "determine",
+    "ipa": "/dɪˈtɜːr.mɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "결정하다"
+      }
+    ]
+  },
+  {
+    "word": "influence",
+    "ipa": "/ˈɪn.flu.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "영향을 주다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "영향"
+      }
+    ]
+  },
+  {
+    "word": "impact",
+    "ipa": "/ˈɪm.pækt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "영향"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "영향을 주다"
+      }
+    ]
+  },
+  {
+    "word": "immediate",
+    "ipa": "/ɪˈmiː.di.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "즉각적인"
+      }
+    ]
+  },
+  {
+    "word": "military",
+    "ipa": "/ˈmɪl.ə.ter.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "군사의"
+      }
+    ]
+  },
+  {
+    "word": "ancient",
+    "ipa": "/ˈeɪn.ʃənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "고대의"
+      }
+    ]
+  },
+  {
+    "word": "emphasize",
+    "ipa": "/ˈem.fə.saɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "강조하다"
+      }
+    ]
+  },
+  {
+    "word": "preference",
+    "ipa": "/ˈpref.ər.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "선호"
+      }
+    ]
+  },
+  {
+    "word": "respect",
+    "ipa": "/rɪˈspekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "존경, 존중"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "존경하다"
+      }
+    ]
+  },
+  {
+    "word": "concern",
+    "ipa": "/kənˈsɜːrn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "걱정, 우려"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "관련되다"
+      }
+    ]
+  },
+  {
+    "word": "forecast",
+    "ipa": "/ˈfɔːr.kæst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "예측하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "예보"
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "ipa": "/prɪˈdɪkt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "예언하다"
+      }
+    ]
+  },
+  {
+    "word": "tendency",
+    "ipa": "/ˈten.dən.si/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "경향"
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "ipa": "/ˈfʌŋk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기능"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기능하다"
+      }
+    ]
+  },
+  {
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪf.ə.kənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "중요한"
+      }
+    ]
+  },
+  {
+    "word": "due to",
+    "ipa": "/duː tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~때문에"
+      }
+    ]
+  },
+  {
+    "word": "be aware of",
+    "ipa": "/biː əˈwer əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~을 알고 있다"
+      }
+    ]
+  },
+  {
+    "word": "provide A with B",
+    "ipa": "/prəˈvaɪd eɪ wɪð biː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "A에게 B를 제공하다"
+      }
+    ]
+  }
+]

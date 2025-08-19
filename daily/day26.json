@@ -1,0 +1,294 @@
+[
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "계좌, 설명" },
+      { "partOfSpeech": "동사", "meaning": "설명하다" }
+    ]
+  },
+  {
+    "word": "correct",
+    "ipa": "/kəˈrekt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "옳은" },
+      { "partOfSpeech": "동사", "meaning": "수정하다" }
+    ]
+  },
+  {
+    "word": "charge",
+    "ipa": "/tʃɑːrdʒ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "요금, 책임" },
+      { "partOfSpeech": "동사", "meaning": "청구하다, 기소하다" }
+    ]
+  },
+  {
+    "word": "check",
+    "ipa": "/tʃek/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "확인하다" },
+      { "partOfSpeech": "명사", "meaning": "점검, 수표" }
+    ]
+  },
+  {
+    "word": "air",
+    "ipa": "/er/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "공기" },
+      { "partOfSpeech": "동사", "meaning": "방송하다" }
+    ]
+  },
+  {
+    "word": "tip",
+    "ipa": "/tɪp/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "팁, 끝" },
+      { "partOfSpeech": "동사", "meaning": "기울이다" }
+    ]
+  },
+  {
+    "word": "still",
+    "ipa": "/stɪl/",
+    "meanings": [
+      { "partOfSpeech": "부사", "meaning": "아직도, 여전히" },
+      { "partOfSpeech": "형용사", "meaning": "고요한" }
+    ]
+  },
+  {
+    "word": "custom",
+    "ipa": "/ˈkʌs.təm/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "관습, 풍습" }
+    ]
+  },
+  {
+    "word": "regard",
+    "ipa": "/rɪˈɡɑːrd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~로 여기다" },
+      { "partOfSpeech": "명사", "meaning": "존경, 고려" }
+    ]
+  },
+  {
+    "word": "develop",
+    "ipa": "/dɪˈvel.əp/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "개발하다, 성장하다" }
+    ]
+  },
+  {
+    "word": "object",
+    "ipa": "/ˈɑːb.dʒɪkt/ (n), /əbˈdʒekt/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "물체, 대상" },
+      { "partOfSpeech": "동사", "meaning": "반대하다" }
+    ]
+  },
+  {
+    "word": "yield",
+    "ipa": "/jiːld/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "양보하다, 생산하다" },
+      { "partOfSpeech": "명사", "meaning": "산출량" }
+    ]
+  },
+  {
+    "word": "sacred",
+    "ipa": "/ˈseɪ.krɪd/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "신성한" }
+    ]
+  },
+  {
+    "word": "scared",
+    "ipa": "/skerd/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "겁먹은, 두려운" }
+    ]
+  },
+  {
+    "word": "vain",
+    "ipa": "/veɪn/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "헛된, 허영심이 강한" }
+    ]
+  },
+  {
+    "word": "vein",
+    "ipa": "/veɪn/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "정맥, 기질" }
+    ]
+  },
+  {
+    "word": "cite",
+    "ipa": "/saɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "인용하다" }
+    ]
+  },
+  {
+    "word": "site",
+    "ipa": "/saɪt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "장소, 현장" }
+    ]
+  },
+  {
+    "word": "mass",
+    "ipa": "/mæs/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "덩어리, 대중" }
+    ]
+  },
+  {
+    "word": "mess",
+    "ipa": "/mes/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "엉망진창, 혼란" }
+    ]
+  },
+  {
+    "word": "expand",
+    "ipa": "/ɪkˈspænd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "확장하다" }
+    ]
+  },
+  {
+    "word": "expend",
+    "ipa": "/ɪkˈspend/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "지출하다, 소비하다" }
+    ]
+  },
+  {
+    "word": "literal",
+    "ipa": "/ˈlɪt̬.ɚ.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "글자 그대로의" }
+    ]
+  },
+  {
+    "word": "literate",
+    "ipa": "/ˈlɪt̬.ɚ.ət/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "글을 읽고 쓸 수 있는" },
+      { "partOfSpeech": "명사", "meaning": "식자(識者)" }
+    ]
+  },
+  {
+    "word": "literary",
+    "ipa": "/ˈlɪt̬.ə.rer.i/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "문학의" }
+    ]
+  },
+  {
+    "word": "considerable",
+    "ipa": "/kənˈsɪd.ɚ.ə.bəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "상당한" }
+    ]
+  },
+  {
+    "word": "considerate",
+    "ipa": "/kənˈsɪd.ɚ.ət/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "사려 깊은" }
+    ]
+  },
+  {
+    "word": "optical",
+    "ipa": "/ˈɑːp.tɪ.kəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "시각의, 광학의" }
+    ]
+  },
+  {
+    "word": "optional",
+    "ipa": "/ˈɑːp.ʃən.əl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "선택적인" }
+    ]
+  },
+  {
+    "word": "optimal",
+    "ipa": "/ˈɑːp.tə.məl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "최적의, 가장 좋은" }
+    ]
+  },
+  {
+    "word": "vague",
+    "ipa": "/veɪɡ/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "모호한" }
+    ]
+  },
+  {
+    "word": "vogue",
+    "ipa": "/voʊɡ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "유행" }
+    ]
+  },
+  {
+    "word": "extinct",
+    "ipa": "/ɪkˈstɪŋkt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "멸종된" }
+    ]
+  },
+  {
+    "word": "instinct",
+    "ipa": "/ˈɪn.stɪŋkt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "본능" }
+    ]
+  },
+  {
+    "word": "wander",
+    "ipa": "/ˈwɑːn.dɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "헤매다, 돌아다니다" }
+    ]
+  },
+  {
+    "word": "wonder",
+    "ipa": "/ˈwʌn.dɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "궁금해하다" },
+      { "partOfSpeech": "명사", "meaning": "경이, 놀라움" }
+    ]
+  },
+  {
+    "word": "famine",
+    "ipa": "/ˈfæm.ɪn/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "기근" }
+    ]
+  },
+  {
+    "word": "feminine",
+    "ipa": "/ˈfem.ə.nɪn/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "여성스러운" }
+    ]
+  },
+  {
+    "word": "be known for",
+    "ipa": "/bi noʊn fɔːr/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~로 유명하다" }
+    ]
+  },
+  {
+    "word": "be known as",
+    "ipa": "/bi noʊn æz/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~로 알려져 있다" }
+    ]
+  }
+]

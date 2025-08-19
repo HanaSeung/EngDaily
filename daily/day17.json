@@ -1,0 +1,438 @@
+[
+  {
+    "word": "conquer",
+    "ipa": "/ˈkɑːŋ.kər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "정복하다"
+      }
+    ]
+  },
+  {
+    "word": "heritage",
+    "ipa": "/ˈher.ɪ.t̬ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유산"
+      }
+    ]
+  },
+  {
+    "word": "artificial",
+    "ipa": "/ˌɑːr.t̬əˈfɪʃ.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "인공적인"
+      }
+    ]
+  },
+  {
+    "word": "conventional",
+    "ipa": "/kənˈven.ʃən.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "전통적인, 관습적인"
+      }
+    ]
+  },
+  {
+    "word": "colonial",
+    "ipa": "/kəˈloʊ.ni.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "식민지의"
+      }
+    ]
+  },
+  {
+    "word": "noble",
+    "ipa": "/ˈnoʊ.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "고귀한, 귀족의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "귀족"
+      }
+    ]
+  },
+  {
+    "word": "ascend",
+    "ipa": "/əˈsend/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "오르다"
+      }
+    ]
+  },
+  {
+    "word": "empower",
+    "ipa": "/ɪmˈpaʊ.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "권한을 부여하다"
+      }
+    ]
+  },
+  {
+    "word": "be derived from",
+    "ipa": "/biː dɪˈraɪvd frʌm/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~에서 유래하다"
+      }
+    ]
+  },
+  {
+    "word": "take ~ into account",
+    "ipa": "/teɪk ˈɪn.tuː əˈkaʊnt/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~을 고려하다"
+      }
+    ]
+  },
+  {
+    "word": "philosophy",
+    "ipa": "/fəˈlɑː.sə.fi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "철학"
+      }
+    ]
+  },
+  {
+    "word": "profound",
+    "ipa": "/prəˈfaʊnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "깊은, 심오한"
+      }
+    ]
+  },
+  {
+    "word": "shallow",
+    "ipa": "/ˈʃæl.oʊ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "얕은"
+      }
+    ]
+  },
+  {
+    "word": "oppose",
+    "ipa": "/əˈpoʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "반대하다"
+      }
+    ]
+  },
+  {
+    "word": "spirit",
+    "ipa": "/ˈspɪr.ɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "정신, 영혼"
+      }
+    ]
+  },
+  {
+    "word": "ritual",
+    "ipa": "/ˈrɪtʃ.u.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "의식, 의례"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "의식의"
+      }
+    ]
+  },
+  {
+    "word": "substance",
+    "ipa": "/ˈsʌb.stəns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "물질, 실체"
+      }
+    ]
+  },
+  {
+    "word": "prejudice",
+    "ipa": "/ˈpredʒ.ə.dɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "편견"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "편견을 갖게 하다"
+      }
+    ]
+  },
+  {
+    "word": "bias",
+    "ipa": "/ˈbaɪ.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "편향"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "편향시키다"
+      }
+    ]
+  },
+  {
+    "word": "ultimate",
+    "ipa": "/ˈʌl.t̬ə.mət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "궁극적인"
+      }
+    ]
+  },
+  {
+    "word": "absolute",
+    "ipa": "/ˈæb.sə.luːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "절대적인"
+      }
+    ]
+  },
+  {
+    "word": "humanity",
+    "ipa": "/hjuːˈmæn.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "인류, 인간성"
+      }
+    ]
+  },
+  {
+    "word": "draft",
+    "ipa": "/dræft/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "초안"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "초안을 작성하다"
+      }
+    ]
+  },
+  {
+    "word": "spell",
+    "ipa": "/spel/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "철자하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "주문"
+      }
+    ]
+  },
+  {
+    "word": "modify",
+    "ipa": "/ˈmɑː.də.faɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "수정하다"
+      }
+    ]
+  },
+  {
+    "word": "comic",
+    "ipa": "/ˈkɑː.mɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "희극적인"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "만화"
+      }
+    ]
+  },
+  {
+    "word": "tragic",
+    "ipa": "/ˈtrædʒ.ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "비극적인"
+      }
+    ]
+  },
+  {
+    "word": "simplify",
+    "ipa": "/ˈsɪm.plə.faɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "단순화하다"
+      }
+    ]
+  },
+  {
+    "word": "myth",
+    "ipa": "/mɪθ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신화"
+      }
+    ]
+  },
+  {
+    "word": "imply",
+    "ipa": "/ɪmˈplaɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "암시하다"
+      }
+    ]
+  },
+  {
+    "word": "context",
+    "ipa": "/ˈkɑːn.tekst/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "문맥, 맥락"
+      }
+    ]
+  },
+  {
+    "word": "inherent",
+    "ipa": "/ɪnˈhɪr.ənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "내재적인"
+      }
+    ]
+  },
+  {
+    "word": "outline",
+    "ipa": "/ˈaʊt.laɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "개요, 윤곽"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "개요를 설명하다"
+      }
+    ]
+  },
+  {
+    "word": "translate",
+    "ipa": "/trænsˈleɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "번역하다"
+      }
+    ]
+  },
+  {
+    "word": "series",
+    "ipa": "/ˈsɪr.iːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "연속, 시리즈"
+      }
+    ]
+  },
+  {
+    "word": "plot",
+    "ipa": "/plɑːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "줄거리"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "음모를 꾸미다"
+      }
+    ]
+  },
+  {
+    "word": "paradoxically",
+    "ipa": "/ˌper.əˈdɑːk.sɪ.kəl.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "부사",
+        "meaning": "역설적으로"
+      }
+    ]
+  },
+  {
+    "word": "ironically",
+    "ipa": "/aɪˈrɑː.nɪ.kəl.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "부사",
+        "meaning": "반어적으로"
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "ipa": "/ˈmet̬.ə.fɔːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "은유"
+      }
+    ]
+  },
+  {
+    "word": "fiction",
+    "ipa": "/ˈfɪk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "소설, 허구"
+      }
+    ]
+  }
+]

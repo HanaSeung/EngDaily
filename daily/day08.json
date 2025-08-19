@@ -1,0 +1,438 @@
+[
+  {
+    "word": "accurate",
+    "ipa": "/ˈæk.jər.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "정확한"
+      }
+    ]
+  },
+  {
+    "word": "precise",
+    "ipa": "/prɪˈsaɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "정밀한, 정확한"
+      }
+    ]
+  },
+  {
+    "word": "estimate",
+    "ipa": "/ˈes.tə.meɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "추정하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "견적"
+      }
+    ]
+  },
+  {
+    "word": "compete",
+    "ipa": "/kəmˈpiːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "경쟁하다"
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "ipa": "/səbˈmɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제출하다, 복종하다"
+      }
+    ]
+  },
+  {
+    "word": "grab",
+    "ipa": "/ɡræb/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "붙잡다, 움켜쥐다"
+      }
+    ]
+  },
+  {
+    "word": "theory",
+    "ipa": "/ˈθiː.ər.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이론"
+      }
+    ]
+  },
+  {
+    "word": "document",
+    "ipa": "/ˈdɑː.kjə.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "문서, 서류"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "문서화하다"
+      }
+    ]
+  },
+  {
+    "word": "enable",
+    "ipa": "/ɪˈneɪ.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "가능하게 하다"
+      }
+    ]
+  },
+  {
+    "word": "avoid",
+    "ipa": "/əˈvɔɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "피하다"
+      }
+    ]
+  },
+  {
+    "word": "escape",
+    "ipa": "/ɪˈskeɪp/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "달아나다, 탈출하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "탈출"
+      }
+    ]
+  },
+  {
+    "word": "innovate",
+    "ipa": "/ˈɪn.ə.veɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "혁신하다"
+      }
+    ]
+  },
+  {
+    "word": "insight",
+    "ipa": "/ˈɪn.saɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "통찰력"
+      }
+    ]
+  },
+  {
+    "word": "insurance",
+    "ipa": "/ɪnˈʃʊr.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "보험"
+      }
+    ]
+  },
+  {
+    "word": "infection",
+    "ipa": "/ɪnˈfek.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "감염"
+      }
+    ]
+  },
+  {
+    "word": "vehicle",
+    "ipa": "/ˈviː.ə.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "차량, 운송 수단"
+      }
+    ]
+  },
+  {
+    "word": "belong",
+    "ipa": "/bɪˈlɔːŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "~에 속하다"
+      }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "ipa": "/ˈsel.ə.breɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "축하하다"
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "ipa": "/ˈdem.ən.streɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "시위하다, 증명하다, 보여주다"
+      }
+    ]
+  },
+  {
+    "word": "disaster",
+    "ipa": "/dɪˈzæs.tər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "재난, 재해"
+      }
+    ]
+  },
+  {
+    "word": "economic",
+    "ipa": "/ˌiː.kəˈnɑː.mɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "경제의"
+      }
+    ]
+  },
+  {
+    "word": "household",
+    "ipa": "/ˈhaʊs.hoʊld/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가정, 가구"
+      }
+    ]
+  },
+  {
+    "word": "assign",
+    "ipa": "/əˈsaɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "할당하다, 배정하다"
+      }
+    ]
+  },
+  {
+    "word": "transfer",
+    "ipa": "/trænsˈfɜːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "옮기다, 이동하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "이동"
+      }
+    ]
+  },
+  {
+    "word": "preserve",
+    "ipa": "/prɪˈzɜːrv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "보존하다"
+      }
+    ]
+  },
+  {
+    "word": "opposite",
+    "ipa": "/ˈɑː.pə.zɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "반대의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "반대"
+      }
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "ipa": "/ˌsæt.ɪsˈfæk.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "만족"
+      }
+    ]
+  },
+  {
+    "word": "comfort",
+    "ipa": "/ˈkʌm.fərt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "편안함, 위로"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "위로하다"
+      }
+    ]
+  },
+  {
+    "word": "ease",
+    "ipa": "/iːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "용이함, 쉬움, 편안함"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "완화하다"
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "ipa": "/ˈmoʊ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "움직임, 동작"
+      }
+    ]
+  },
+  {
+    "word": "operation",
+    "ipa": "/ˌɑː.pəˈreɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "작동, 수술, 운영"
+      }
+    ]
+  },
+  {
+    "word": "blame",
+    "ipa": "/bleɪm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "비난하다, ~의 탓으로 하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "비난"
+      }
+    ]
+  },
+  {
+    "word": "refreshing",
+    "ipa": "/rɪˈfreʃ.ɪŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "상쾌한"
+      }
+    ]
+  },
+  {
+    "word": "trend",
+    "ipa": "/trend/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "경향, 추세"
+      }
+    ]
+  },
+  {
+    "word": "journal",
+    "ipa": "/ˈdʒɜːr.nəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "일지, 신문, 잡지"
+      }
+    ]
+  },
+  {
+    "word": "private",
+    "ipa": "/ˈpraɪ.vət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "사적인, 개인적인"
+      }
+    ]
+  },
+  {
+    "word": "sentence",
+    "ipa": "/ˈsen.təns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "문장; 판결"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "선고하다"
+      }
+    ]
+  },
+  {
+    "word": "majority",
+    "ipa": "/məˈdʒɔːr.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "다수"
+      }
+    ]
+  },
+  {
+    "word": "dozens of",
+    "ipa": "/ˈdʌz.ənz əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "수십(의)"
+      }
+    ]
+  },
+  {
+    "word": "rather than",
+    "ipa": "/ˈræð.ər ðæn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~라기보다는"
+      }
+    ]
+  }
+]

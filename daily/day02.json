@@ -1,0 +1,402 @@
+[
+  {
+    "word": "illegal",
+    "ipa": "/ɪˈliː.ɡəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "불법의"
+      }
+    ]
+  },
+  {
+    "word": "local",
+    "ipa": "/ˈloʊ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "지역의"
+      }
+    ]
+  },
+  {
+    "word": "amount",
+    "ipa": "/əˈmaʊnt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "양"
+      }
+    ]
+  },
+  {
+    "word": "found",
+    "ipa": "/faʊnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설립하다"
+      }
+    ]
+  },
+  {
+    "word": "establish",
+    "ipa": "/ɪˈstæb.lɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "설립하다"
+      }
+    ]
+  },
+  {
+    "word": "historical",
+    "ipa": "/hɪˈstɔːr.ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "역사적인"
+      }
+    ]
+  },
+  {
+    "word": "process",
+    "ipa": "/ˈprɑː.ses/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "과정"
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "ipa": "/ˈek.spɜːrt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "전문가"
+      }
+    ]
+  },
+  {
+    "word": "decade",
+    "ipa": "/ˈdek.eɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "10년"
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "ipa": "/kənˈtɪn.juː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "계속하다"
+      }
+    ]
+  },
+  {
+    "word": "dedicate",
+    "ipa": "/ˈded.ɪ.keɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "바치다, 헌신하다"
+      }
+    ]
+  },
+  {
+    "word": "devote",
+    "ipa": "/dɪˈvoʊt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "헌신하다"
+      }
+    ]
+  },
+  {
+    "word": "period",
+    "ipa": "/ˈpɪr.i.əd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기간"
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "ipa": "/pərˈsiːv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "인지하다"
+      }
+    ]
+  },
+  {
+    "word": "recognize",
+    "ipa": "/ˈrek.əɡ.naɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "인식하다, 알아보다"
+      }
+    ]
+  },
+  {
+    "word": "exhausted",
+    "ipa": "/ɪɡˈzɔː.stɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "지친"
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "ipa": "/kraɪm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "범죄"
+      }
+    ]
+  },
+  {
+    "word": "expose",
+    "ipa": "/ɪkˈspoʊz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "드러내다, 폭로하다"
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "ipa": "/rɪˈviːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "밝히다"
+      }
+    ]
+  },
+  {
+    "word": "conceal",
+    "ipa": "/kənˈsiːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "숨기다"
+      }
+    ]
+  },
+  {
+    "word": "charity",
+    "ipa": "/ˈtʃer.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "자선"
+      }
+    ]
+  },
+  {
+    "word": "deserve",
+    "ipa": "/dɪˈzɜːrv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "~할 자격이 있다"
+      }
+    ]
+  },
+  {
+    "word": "unite",
+    "ipa": "/juˈnaɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "결합하다"
+      }
+    ]
+  },
+  {
+    "word": "combine",
+    "ipa": "/kəmˈbaɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "결합하다"
+      }
+    ]
+  },
+  {
+    "word": "separate",
+    "ipa": "/ˈsep.ər.eɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "분리하다"
+      }
+    ]
+  },
+  {
+    "word": "complete",
+    "ipa": "/kəmˈpliːt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "완성하다"
+      }
+    ]
+  },
+  {
+    "word": "connect",
+    "ipa": "/kəˈnekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "연결하다"
+      }
+    ]
+  },
+  {
+    "word": "overcome",
+    "ipa": "/ˌoʊ.vərˈkʌm/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "극복하다"
+      }
+    ]
+  },
+  {
+    "word": "rapid",
+    "ipa": "/ˈræp.ɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "빠른"
+      }
+    ]
+  },
+  {
+    "word": "chase",
+    "ipa": "/tʃeɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "쫓다"
+      }
+    ]
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "이루다"
+      }
+    ]
+  },
+  {
+    "word": "accomplish",
+    "ipa": "/əˈkɑːm.plɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "성취하다"
+      }
+    ]
+  },
+  {
+    "word": "mislead",
+    "ipa": "/ˌmɪsˈliːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "잘못 인도하다"
+      }
+    ]
+  },
+  {
+    "word": "random",
+    "ipa": "/ˈræn.dəm/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "무작위의"
+      }
+    ]
+  },
+  {
+    "word": "organ",
+    "ipa": "/ˈɔːr.ɡən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "장기(몸의)"
+      }
+    ]
+  },
+  {
+    "word": "vital",
+    "ipa": "/ˈvaɪ.t̬əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "필수적인"
+      }
+    ]
+  },
+  {
+    "word": "reliable",
+    "ipa": "/rɪˈlaɪ.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "믿을 수 있는"
+      }
+    ]
+  },
+  {
+    "word": "deal with",
+    "ipa": "/diːl wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "처리하다"
+      }
+    ]
+  },
+  {
+    "word": "lead to",
+    "ipa": "/liːd tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~로 이어지다"
+      }
+    ]
+  },
+  {
+    "word": "get along with",
+    "ipa": "/ɡet əˈlɔːŋ wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~와 잘 지내다"
+      }
+    ]
+  }
+]

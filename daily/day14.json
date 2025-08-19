@@ -1,0 +1,442 @@
+[
+  {
+    "word": "occupation",
+    "ipa": "/ˌɑː.kjəˈpeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "직업"
+      }
+    ]
+  },
+  {
+    "word": "supervise",
+    "ipa": "/ˈsuː.pər.vaɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "감독하다"
+      }
+    ]
+  },
+  {
+    "word": "specialize",
+    "ipa": "/ˈspeʃ.əl.aɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "전문으로 하다"
+      }
+    ]
+  },
+  {
+    "word": "bond",
+    "ipa": "/bɑːnd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유대, 결속"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "결속하다"
+      }
+    ]
+  },
+  {
+    "word": "certificate",
+    "ipa": "/sərˈtɪf.ə.kət/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "증명서"
+      }
+    ]
+  },
+  {
+    "word": "chief",
+    "ipa": "/tʃiːf/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "(계급상) 최고위자"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "주요한"
+      }
+    ]
+  },
+  {
+    "word": "collaborate",
+    "ipa": "/kəˈlæb.ə.reɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "협력하다"
+      }
+    ]
+  },
+  {
+    "word": "deprive",
+    "ipa": "/dɪˈpraɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "빼앗다, 박탈하다"
+      }
+    ]
+  },
+  {
+    "word": "colleague",
+    "ipa": "/ˈkɑː.liːɡ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "동료"
+      }
+    ]
+  },
+  {
+    "word": "shift",
+    "ipa": "/ʃɪft/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "변화, 교대 근무"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "이동하다"
+      }
+    ]
+  },
+  {
+    "word": "outcome",
+    "ipa": "/ˈaʊt.kʌm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "결과"
+      }
+    ]
+  },
+  {
+    "word": "exceed",
+    "ipa": "/ɪkˈsiːd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "초과하다"
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "ipa": "/prəˈsiː.dʒər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "절차"
+      }
+    ]
+  },
+  {
+    "word": "attendant",
+    "ipa": "/əˈten.dənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "안내원, 수행원"
+      }
+    ]
+  },
+  {
+    "word": "negotiation",
+    "ipa": "/nɪˌɡoʊ.ʃiˈeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "협상"
+      }
+    ]
+  },
+  {
+    "word": "incentive",
+    "ipa": "/ɪnˈsen.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유인책, 장려책"
+      }
+    ]
+  },
+  {
+    "word": "strategy",
+    "ipa": "/ˈstræt̬.ə.dʒi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "전략"
+      }
+    ]
+  },
+  {
+    "word": "challenge",
+    "ipa": "/ˈtʃæl.ɪndʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "도전"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "도전하다"
+      }
+    ]
+  },
+  {
+    "word": "routine",
+    "ipa": "/ruːˈtiːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "일상"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "일상적인"
+      }
+    ]
+  },
+  {
+    "word": "shelter",
+    "ipa": "/ˈʃel.t̬ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "피난처, 보호소"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "보호하다"
+      }
+    ]
+  },
+  {
+    "word": "withdraw",
+    "ipa": "/wɪðˈdrɔː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "철수하다, 인출하다"
+      }
+    ]
+  },
+  {
+    "word": "deposit",
+    "ipa": "/dɪˈpɑː.zɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "예금하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "보증금"
+      }
+    ]
+  },
+  {
+    "word": "secure",
+    "ipa": "/sɪˈkjʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "확보하다"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "안전한"
+      }
+    ]
+  },
+  {
+    "word": "chore",
+    "ipa": "/tʃɔːr/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "집안일, 허드렛일"
+      }
+    ]
+  },
+  {
+    "word": "react",
+    "ipa": "/riˈækt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "반응하다"
+      }
+    ]
+  },
+  {
+    "word": "urban",
+    "ipa": "/ˈɜːr.bən/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "도시의"
+      }
+    ]
+  },
+  {
+    "word": "rural",
+    "ipa": "/ˈrʊr.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "시골의"
+      }
+    ]
+  },
+  {
+    "word": "complicated",
+    "ipa": "/ˈkɑːm.plə.keɪ.t̬ɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "복잡한"
+      }
+    ]
+  },
+  {
+    "word": "resident",
+    "ipa": "/ˈrez.ə.dənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "거주자"
+      }
+    ]
+  },
+  {
+    "word": "familiar",
+    "ipa": "/fəˈmɪl.jər/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "익숙한"
+      }
+    ]
+  },
+  {
+    "word": "miracle",
+    "ipa": "/ˈmɪr.ə.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "기적"
+      }
+    ]
+  },
+  {
+    "word": "companion",
+    "ipa": "/kəmˈpæn.jən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "동반자"
+      }
+    ]
+  },
+  {
+    "word": "keep up with",
+    "ipa": "/kiːp ʌp wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "따라가다, 뒤처지지 않다"
+      }
+    ]
+  },
+  {
+    "word": "make the most of",
+    "ipa": "/meɪk ðə moʊst əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "최대한 활용하다"
+      }
+    ]
+  },
+  {
+    "word": "exchange",
+    "ipa": "/ɪksˈtʃeɪndʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "교환하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "교환"
+      }
+    ]
+  },
+  {
+    "word": "strain",
+    "ipa": "/streɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "긴장, 부담"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "긴장시키다"
+      }
+    ]
+  },
+  {
+    "word": "adventure",
+    "ipa": "/ədˈven.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "모험"
+      }
+    ]
+  },
+  {
+    "word": "destination",
+    "ipa": "/ˌdes.t̬əˈneɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "목적지"
+      }
+    ]
+  },
+  {
+    "word": "accompany",
+    "ipa": "/əˈkʌm.pə.ni/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "동반하다"
+      }
+    ]
+  },
+  {
+    "word": "remote",
+    "ipa": "/rɪˈmoʊt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "외딴, 멀리 떨어진"
+      }
+    ]
+  }
+]

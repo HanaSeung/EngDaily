@@ -1,0 +1,430 @@
+[
+  {
+    "word": "mixture",
+    "ipa": "/ˈmɪks.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "혼합물"
+      }
+    ]
+  },
+  {
+    "word": "burst",
+    "ipa": "/bɜːrst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "터지다, 폭발하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "파열, 폭발"
+      }
+    ]
+  },
+  {
+    "word": "method",
+    "ipa": "/ˈmeθ.əd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "방법"
+      }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "ipa": "/ˈlæb.rə.tɔːr.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "실험실"
+      }
+    ]
+  },
+  {
+    "word": "observation",
+    "ipa": "/ˌɑːb.zərˈveɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "관찰"
+      }
+    ]
+  },
+  {
+    "word": "toxic",
+    "ipa": "/ˈtɑːk.sɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유독한"
+      }
+    ]
+  },
+  {
+    "word": "vapor",
+    "ipa": "/ˈveɪ.pər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "증기"
+      }
+    ]
+  },
+  {
+    "word": "gas",
+    "ipa": "/ɡæs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가스"
+      }
+    ]
+  },
+  {
+    "word": "fluid",
+    "ipa": "/ˈfluː.ɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유체, 액체"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유동적인"
+      }
+    ]
+  },
+  {
+    "word": "liquid",
+    "ipa": "/ˈlɪk.wɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "액체"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "액체의"
+      }
+    ]
+  },
+  {
+    "word": "solid",
+    "ipa": "/ˈsɑː.lɪd/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "고체의, 단단한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "고체"
+      }
+    ]
+  },
+  {
+    "word": "metal",
+    "ipa": "/ˈmet.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "금속"
+      }
+    ]
+  },
+  {
+    "word": "extract",
+    "ipa": "/ɪkˈstrækt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "추출하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "추출물"
+      }
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɑː.θə.sɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가설"
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "ipa": "/ˈɡræv.ə.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "중력"
+      }
+    ]
+  },
+  {
+    "word": "particle",
+    "ipa": "/ˈpɑːr.t̬ɪ.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "입자"
+      }
+    ]
+  },
+  {
+    "word": "component",
+    "ipa": "/kəmˈpoʊ.nənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "구성 요소"
+      }
+    ]
+  },
+  {
+    "word": "molecule",
+    "ipa": "/ˈmɑː.lə.kjuːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "분자"
+      }
+    ]
+  },
+  {
+    "word": "keep A from ~ing",
+    "ipa": "/kiːp eɪ frəm ~ɪŋ/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "A가 ~하지 못하게 하다"
+      }
+    ]
+  },
+  {
+    "word": "habitat",
+    "ipa": "/ˈhæb.ɪ.tæt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "서식지"
+      }
+    ]
+  },
+  {
+    "word": "species",
+    "ipa": "/ˈspiː.ʃiːz/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "종(種)"
+      }
+    ]
+  },
+  {
+    "word": "mammal",
+    "ipa": "/ˈmæm.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "포유류"
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "ipa": "/ˈpred.ə.t̬ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "포식자"
+      }
+    ]
+  },
+  {
+    "word": "migrate",
+    "ipa": "/ˈmaɪ.ɡreɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "이동하다, 이주하다"
+      }
+    ]
+  },
+  {
+    "word": "survive",
+    "ipa": "/sərˈvaɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "생존하다"
+      }
+    ]
+  },
+  {
+    "word": "skeleton",
+    "ipa": "/ˈskel.ə.t̬ən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "골격"
+      }
+    ]
+  },
+  {
+    "word": "nerve",
+    "ipa": "/nɜːrv/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신경"
+      }
+    ]
+  },
+  {
+    "word": "stem",
+    "ipa": "/stem/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "줄기"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "유래하다"
+      }
+    ]
+  },
+  {
+    "word": "organism",
+    "ipa": "/ˈɔːr.ɡən.ɪ.zəm/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "유기체, 생물"
+      }
+    ]
+  },
+  {
+    "word": "branch",
+    "ipa": "/bræntʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가지, 분과"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "갈라지다"
+      }
+    ]
+  },
+  {
+    "word": "tissue",
+    "ipa": "/ˈtɪʃ.uː/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "조직"
+      }
+    ]
+  },
+  {
+    "word": "come up with",
+    "ipa": "/kʌm ʌp wɪð/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "생각해내다"
+      }
+    ]
+  },
+  {
+    "word": "volcanic",
+    "ipa": "/vɑːlˈkæn.ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "화산의"
+      }
+    ]
+  },
+  {
+    "word": "vibrate",
+    "ipa": "/ˈvaɪ.breɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "진동하다"
+      }
+    ]
+  },
+  {
+    "word": "layer",
+    "ipa": "/ˈleɪ.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "층"
+      }
+    ]
+  },
+  {
+    "word": "temperature",
+    "ipa": "/ˈtem.pər.ə.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "온도"
+      }
+    ]
+  },
+  {
+    "word": "glacier",
+    "ipa": "/ˈɡleɪ.ʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "빙하"
+      }
+    ]
+  },
+  {
+    "word": "astronomy",
+    "ipa": "/əˈstrɑː.nə.mi/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "천문학"
+      }
+    ]
+  },
+  {
+    "word": "ray",
+    "ipa": "/reɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "광선"
+      }
+    ]
+  },
+  {
+    "word": "consist of",
+    "ipa": "/kənˈsɪst əv/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~으로 구성되다"
+      }
+    ]
+  }
+]

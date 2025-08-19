@@ -1,0 +1,434 @@
+[
+  {
+    "word": "protest",
+    "ipa": "/ˈproʊ.test/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "항의하다, 시위하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "항의, 시위"
+      }
+    ]
+  },
+  {
+    "word": "organic",
+    "ipa": "/ɔːrˈɡæn.ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유기농의"
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "ipa": "/ˈbrɪl.jənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "훌륭한, 멋진"
+      }
+    ]
+  },
+  {
+    "word": "finance",
+    "ipa": "/ˈfaɪ.næns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "재정, 금융"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "자금을 조달하다"
+      }
+    ]
+  },
+  {
+    "word": "incredible",
+    "ipa": "/ɪnˈkred.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "믿을 수 없는, 굉장한"
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "ipa": "/ˈɪn.t̬rəst/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "관심, 흥미"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "흥미를 끌다"
+      }
+    ]
+  },
+  {
+    "word": "rare",
+    "ipa": "/rer/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "드문, 희귀한"
+      }
+    ]
+  },
+  {
+    "word": "employ",
+    "ipa": "/ɪmˈplɔɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고용하다, 이용하다"
+      }
+    ]
+  },
+  {
+    "word": "hire",
+    "ipa": "/haɪər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "고용하다"
+      }
+    ]
+  },
+  {
+    "word": "define",
+    "ipa": "/dɪˈfaɪn/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "정의하다"
+      }
+    ]
+  },
+  {
+    "word": "donate",
+    "ipa": "/ˈdoʊ.neɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기부하다"
+      }
+    ]
+  },
+  {
+    "word": "average",
+    "ipa": "/ˈæv.ər.ɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "평균의"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "평균"
+      }
+    ]
+  },
+  {
+    "word": "gender",
+    "ipa": "/ˈdʒen.dər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "성별"
+      }
+    ]
+  },
+  {
+    "word": "invest",
+    "ipa": "/ɪnˈvest/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "투자하다"
+      }
+    ]
+  },
+  {
+    "word": "previous",
+    "ipa": "/ˈpriː.vi.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "이전의"
+      }
+    ]
+  },
+  {
+    "word": "worth",
+    "ipa": "/wɜːrθ/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "~의 가치가 있는"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "가치"
+      }
+    ]
+  },
+  {
+    "word": "alternative",
+    "ipa": "/ɔːlˈtɜːr.nə.t̬ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "대안"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "대안의"
+      }
+    ]
+  },
+  {
+    "word": "factor",
+    "ipa": "/ˈfæk.t̬ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "요소, 요인"
+      }
+    ]
+  },
+  {
+    "word": "element",
+    "ipa": "/ˈel.ə.mənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "요소, 성분"
+      }
+    ]
+  },
+  {
+    "word": "deadly",
+    "ipa": "/ˈded.li/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "치명적인"
+      }
+    ]
+  },
+  {
+    "word": "firm",
+    "ipa": "/fɜːrm/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "굳은, 확고한"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "회사"
+      }
+    ]
+  },
+  {
+    "word": "independence",
+    "ipa": "/ˌɪn.dɪˈpen.dəns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "독립"
+      }
+    ]
+  },
+  {
+    "word": "occasion",
+    "ipa": "/əˈkeɪ.ʒən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "경우, 특별한 일"
+      }
+    ]
+  },
+  {
+    "word": "publish",
+    "ipa": "/ˈpʌb.lɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "출판하다"
+      }
+    ]
+  },
+  {
+    "word": "appearance",
+    "ipa": "/əˈpɪr.əns/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "외모, 출현"
+      }
+    ]
+  },
+  {
+    "word": "appoint",
+    "ipa": "/əˈpɔɪnt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "임명하다"
+      }
+    ]
+  },
+  {
+    "word": "blend",
+    "ipa": "/blend/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "섞다, 혼합하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "혼합"
+      }
+    ]
+  },
+  {
+    "word": "barrier",
+    "ipa": "/ˈber.i.ər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "장벽"
+      }
+    ]
+  },
+  {
+    "word": "obstacle",
+    "ipa": "/ˈɑːb.stə.kəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "장애물"
+      }
+    ]
+  },
+  {
+    "word": "detect",
+    "ipa": "/dɪˈtekt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "감지하다, 발견하다"
+      }
+    ]
+  },
+  {
+    "word": "education",
+    "ipa": "/ˌed.jəˈkeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "교육"
+      }
+    ]
+  },
+  {
+    "word": "enormous",
+    "ipa": "/ɪˈnɔːr.məs/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "거대한"
+      }
+    ]
+  },
+  {
+    "word": "vast",
+    "ipa": "/væst/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "광대한, 방대한"
+      }
+    ]
+  },
+  {
+    "word": "tiny",
+    "ipa": "/ˈtaɪ.ni/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "아주 작은"
+      }
+    ]
+  },
+  {
+    "word": "ordinary",
+    "ipa": "/ˈɔːr.dən.er.i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "평범한"
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "ipa": "/ˌæp.ləˈkeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "신청, 적용"
+      }
+    ]
+  },
+  {
+    "word": "reasonable",
+    "ipa": "/ˈriː.zən.ə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "합리적인"
+      }
+    ]
+  },
+  {
+    "word": "abandon",
+    "ipa": "/əˈbæn.dən/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "버리다, 포기하다"
+      }
+    ]
+  },
+  {
+    "word": "get used to",
+    "ipa": "/ɡet juːzd tuː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "~에 익숙해지다"
+      }
+    ]
+  },
+  {
+    "word": "figure out",
+    "ipa": "/ˈfɪɡ.ər aʊt/",
+    "meanings": [
+      {
+        "partOfSpeech": "구동사",
+        "meaning": "이해하다, 알아내다"
+      }
+    ]
+  }
+]

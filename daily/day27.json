@@ -1,0 +1,301 @@
+[
+  {
+    "word": "bear",
+    "ipa": "/ber/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "참다, 견디다" },
+      { "partOfSpeech": "명사", "meaning": "곰" }
+    ]
+  },
+  {
+    "word": "sound",
+    "ipa": "/saʊnd/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "소리" },
+      { "partOfSpeech": "형용사", "meaning": "건전한" },
+      { "partOfSpeech": "동사", "meaning": "들리다" }
+    ]
+  },
+  {
+    "word": "bill",
+    "ipa": "/bɪl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "청구서, 법안, 지폐" }
+    ]
+  },
+  {
+    "word": "count",
+    "ipa": "/kaʊnt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "세다, 중요하다" },
+      { "partOfSpeech": "명사", "meaning": "계산, 셈" }
+    ]
+  },
+  {
+    "word": "present",
+    "ipa": "/ˈprez.ənt/ (n,a), /prɪˈzent/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "선물, 현재" },
+      { "partOfSpeech": "형용사", "meaning": "현재의, 참석한" },
+      { "partOfSpeech": "동사", "meaning": "제시하다, 발표하다" }
+    ]
+  },
+  {
+    "word": "grave",
+    "ipa": "/ɡreɪv/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "무덤" },
+      { "partOfSpeech": "형용사", "meaning": "심각한" }
+    ]
+  },
+  {
+    "word": "subject",
+    "ipa": "/ˈsʌb.dʒɪkt/ (n), /səbˈdʒekt/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "주제, 과목" },
+      { "partOfSpeech": "동사", "meaning": "~을 당하게 하다" }
+    ]
+  },
+  {
+    "word": "draw",
+    "ipa": "/drɑː/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "그리다, 끌다" },
+      { "partOfSpeech": "명사", "meaning": "무승부" }
+    ]
+  },
+  {
+    "word": "contract",
+    "ipa": "/ˈkɑːn.trækt/ (n), /kənˈtrækt/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "계약" },
+      { "partOfSpeech": "동사", "meaning": "수축하다, 계약하다" }
+    ]
+  },
+  {
+    "word": "hold",
+    "ipa": "/hoʊld/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "잡다, 유지하다" }
+    ]
+  },
+  {
+    "word": "balance",
+    "ipa": "/ˈbæl.əns/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "균형, 잔액" },
+      { "partOfSpeech": "동사", "meaning": "균형을 잡다" }
+    ]
+  },
+  {
+    "word": "character",
+    "ipa": "/ˈker.ək.tɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "성격, 등장인물, 문자" }
+    ]
+  },
+  {
+    "word": "absorb",
+    "ipa": "/əbˈzɔːrb/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "흡수하다" }
+    ]
+  },
+  {
+    "word": "absurd",
+    "ipa": "/əbˈsɝːd/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "터무니없는" }
+    ]
+  },
+  {
+    "word": "carve",
+    "ipa": "/kɑːrv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "조각하다, 새기다" }
+    ]
+  },
+  {
+    "word": "curve",
+    "ipa": "/kɝːv/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "곡선" },
+      { "partOfSpeech": "동사", "meaning": "구부리다" }
+    ]
+  },
+  {
+    "word": "complement",
+    "ipa": "/ˈkɑːm.plə.ment/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "보완물" },
+      { "partOfSpeech": "동사", "meaning": "보완하다" }
+    ]
+  },
+  {
+    "word": "compliment",
+    "ipa": "/ˈkɑːm.plə.mənt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "칭찬" },
+      { "partOfSpeech": "동사", "meaning": "칭찬하다" }
+    ]
+  },
+  {
+    "word": "respectable",
+    "ipa": "/rɪˈspek.tə.bəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "존경할 만한" }
+    ]
+  },
+  {
+    "word": "respective",
+    "ipa": "/rɪˈspek.tɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "각각의" }
+    ]
+  },
+  {
+    "word": "principal",
+    "ipa": "/ˈprɪn.sə.pəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "주요한" },
+      { "partOfSpeech": "명사", "meaning": "교장, 원금" }
+    ]
+  },
+  {
+    "word": "principle",
+    "ipa": "/ˈprɪn.sə.pəl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "원칙" }
+    ]
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "획득하다, 습득하다" }
+    ]
+  },
+  {
+    "word": "inquire",
+    "ipa": "/ɪnˈkwaɪɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "묻다, 문의하다" }
+    ]
+  },
+  {
+    "word": "require",
+    "ipa": "/rɪˈkwaɪɚ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "요구하다, 필요로 하다" }
+    ]
+  },
+  {
+    "word": "lie¹",
+    "ipa": "/laɪ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "눕다, 놓여 있다" }
+    ]
+  },
+  {
+    "word": "lie²",
+    "ipa": "/laɪ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "거짓말하다" },
+      { "partOfSpeech": "명사", "meaning": "거짓말" }
+    ]
+  },
+  {
+    "word": "lay",
+    "ipa": "/leɪ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "놓다, 눕히다" }
+    ]
+  },
+  {
+    "word": "imitate",
+    "ipa": "/ˈɪm.ə.teɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "모방하다" }
+    ]
+  },
+  {
+    "word": "initiate",
+    "ipa": "/ɪˈnɪʃ.i.eɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "시작하다, 착수하다" }
+    ]
+  },
+  {
+    "word": "defeat",
+    "ipa": "/dɪˈfiːt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "패배시키다" },
+      { "partOfSpeech": "명사", "meaning": "패배" }
+    ]
+  },
+  {
+    "word": "defect",
+    "ipa": "/ˈdiː.fekt/ (n), /dɪˈfekt/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "결함" },
+      { "partOfSpeech": "동사", "meaning": "탈퇴하다, 망명하다" }
+    ]
+  },
+  {
+    "word": "frame",
+    "ipa": "/freɪm/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "틀, 구조" },
+      { "partOfSpeech": "동사", "meaning": "틀에 넣다, 구성하다" }
+    ]
+  },
+  {
+    "word": "flame",
+    "ipa": "/fleɪm/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "불꽃, 화염" }
+    ]
+  },
+  {
+    "word": "successive",
+    "ipa": "/səkˈses.ɪv/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "연속적인" }
+    ]
+  },
+  {
+    "word": "successful",
+    "ipa": "/səkˈses.fəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "성공한" }
+    ]
+  },
+  {
+    "word": "cooperation",
+    "ipa": "/koʊˌɑː.pəˈreɪ.ʃən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "협력, 협조" }
+    ]
+  },
+  {
+    "word": "corporation",
+    "ipa": "/ˌkɔːr.pəˈreɪ.ʃən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "기업, 법인" }
+    ]
+  },
+  {
+    "word": "call for",
+    "ipa": "/kɔːl fɔːr/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "~을 요구하다" }
+    ]
+  },
+  {
+    "word": "call off",
+    "ipa": "/kɔːl ɔːf/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "취소하다" }
+    ]
+  }
+]

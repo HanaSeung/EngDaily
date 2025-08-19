@@ -1,0 +1,294 @@
+[
+  {
+    "word": "company",
+    "ipa": "/ˈkʌm.pə.ni/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "회사, 동행" }
+    ]
+  },
+  {
+    "word": "article",
+    "ipa": "/ˈɑːr.t̬ɪ.kəl/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "기사, 물품, 관사" }
+    ]
+  },
+  {
+    "word": "correspond",
+    "ipa": "/ˌkɔːr.əˈspɑːnd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "일치하다, 서신을 주고받다" }
+    ]
+  },
+  {
+    "word": "reflect",
+    "ipa": "/rɪˈflekt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "반영하다, 반사하다, 숙고하다" }
+    ]
+  },
+  {
+    "word": "post",
+    "ipa": "/poʊst/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "우편, 직책, 기둥" },
+      { "partOfSpeech": "동사", "meaning": "우편으로 보내다, 게시하다" }
+    ]
+  },
+  {
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "감소하다, 거절하다" },
+      { "partOfSpeech": "명사", "meaning": "감소, 하락" }
+    ]
+  },
+  {
+    "word": "suit",
+    "ipa": "/suːt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "정장, 소송" },
+      { "partOfSpeech": "동사", "meaning": "어울리다, 적합하다" }
+    ]
+  },
+  {
+    "word": "figure",
+    "ipa": "/ˈfɪɡ.jɚ/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "수치, 인물, 모습" },
+      { "partOfSpeech": "동사", "meaning": "생각하다, 계산하다" }
+    ]
+  },
+  {
+    "word": "case",
+    "ipa": "/keɪs/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "경우, 사례, 사건, 상자" }
+    ]
+  },
+  {
+    "word": "dismiss",
+    "ipa": "/dɪsˈmɪs/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "해고하다, 무시하다, 기각하다" }
+    ]
+  },
+  {
+    "word": "reserve",
+    "ipa": "/rɪˈzɝːv/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "예약하다, 보유하다" },
+      { "partOfSpeech": "명사", "meaning": "비축(물)" }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "ipa": "/əˈpriː.ʃi.eɪt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "감사하다, 진가를 알아보다, 인식하다" }
+    ]
+  },
+  {
+    "word": "state",
+    "ipa": "/steɪt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "상태, 국가, 주" },
+      { "partOfSpeech": "동사", "meaning": "진술하다" }
+    ]
+  },
+  {
+    "word": "statue",
+    "ipa": "/ˈstætʃ.uː/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "조각상" }
+    ]
+  },
+  {
+    "word": "status",
+    "ipa": "/ˈsteɪ.t̬əs/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "지위, 상태" }
+    ]
+  },
+  {
+    "word": "explode",
+    "ipa": "/ɪkˈsploʊd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "폭발하다" }
+    ]
+  },
+  {
+    "word": "explore",
+    "ipa": "/ɪkˈsplɔːr/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "탐험하다, 조사하다" }
+    ]
+  },
+  {
+    "word": "ethical",
+    "ipa": "/ˈeθ.ɪ.kəl/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "윤리적인" }
+    ]
+  },
+  {
+    "word": "ethnic",
+    "ipa": "/ˈeθ.nɪk/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "민족의, 인종의" }
+    ]
+  },
+  {
+    "word": "waist",
+    "ipa": "/weɪst/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "허리" }
+    ]
+  },
+  {
+    "word": "waste",
+    "ipa": "/weɪst/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "낭비, 쓰레기" },
+      { "partOfSpeech": "동사", "meaning": "낭비하다" }
+    ]
+  },
+  {
+    "word": "hospitality",
+    "ipa": "/ˌhɑː.spɪˈtæl.ə.t̬i/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "환대, 접대" }
+    ]
+  },
+  {
+    "word": "hostility",
+    "ipa": "/hɑːˈstɪl.ə.t̬i/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "적대감" }
+    ]
+  },
+  {
+    "word": "constant",
+    "ipa": "/ˈkɑːn.stənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "지속적인, 변함없는" }
+    ]
+  },
+  {
+    "word": "consistent",
+    "ipa": "/kənˈsɪs.tənt/",
+    "meanings": [
+      { "partOfSpeech": "형용사", "meaning": "일관된, 일치하는" }
+    ]
+  },
+  {
+    "word": "brake",
+    "ipa": "/breɪk/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "브레이크" },
+      { "partOfSpeech": "동사", "meaning": "속도를 줄이다" }
+    ]
+  },
+  {
+    "word": "break",
+    "ipa": "/breɪk/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "깨다, 고장내다" },
+      { "partOfSpeech": "명사", "meaning": "휴식, 고장" }
+    ]
+  },
+  {
+    "word": "saw",
+    "ipa": "/sɔː/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "see의 과거형" },
+      { "partOfSpeech": "명사", "meaning": "톱" }
+    ]
+  },
+  {
+    "word": "sew",
+    "ipa": "/soʊ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "바느질하다" }
+    ]
+  },
+  {
+    "word": "sow",
+    "ipa": "/soʊ/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "씨를 뿌리다" }
+    ]
+  },
+  {
+    "word": "precede",
+    "ipa": "/prɪˈsiːd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "선행하다" }
+    ]
+  },
+  {
+    "word": "proceed",
+    "ipa": "/proʊˈsiːd/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "진행하다" }
+    ]
+  },
+  {
+    "word": "desert",
+    "ipa": "/ˈdez.ɚt/ (n), /dɪˈzɝːt/ (v)",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "사막" },
+      { "partOfSpeech": "동사", "meaning": "버리다" }
+    ]
+  },
+  {
+    "word": "dessert",
+    "ipa": "/dɪˈzɝːt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "후식" }
+    ]
+  },
+  {
+    "word": "addition",
+    "ipa": "/əˈdɪʃ.ən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "추가, 덧셈" }
+    ]
+  },
+  {
+    "word": "addiction",
+    "ipa": "/əˈdɪk.ʃən/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "중독" }
+    ]
+  },
+  {
+    "word": "substitute",
+    "ipa": "/ˈsʌb.stə.tuːt/",
+    "meanings": [
+      { "partOfSpeech": "명사", "meaning": "대체물, 대리자" },
+      { "partOfSpeech": "동사", "meaning": "대신하다" }
+    ]
+  },
+  {
+    "word": "constitute",
+    "ipa": "/ˈkɑːn.stə.tuːt/",
+    "meanings": [
+      { "partOfSpeech": "동사", "meaning": "구성하다, 설립하다" }
+    ]
+  },
+  {
+    "word": "be engaged in",
+    "ipa": "/bi ɪnˈɡeɪdʒd ɪn/",
+    "meanings": [
+      { "partOfSpeech": "숙어", "meaning": "~에 종사하다, 관여하다" }
+    ]
+  },
+  {
+    "word": "be engaged to",
+    "ipa": "/bi ɪnˈɡeɪdʒd tuː/",
+    "meanings": [
+      { "partOfSpeech": "숙어", "meaning": "~와 약혼하다" }
+    ]
+  }
+]

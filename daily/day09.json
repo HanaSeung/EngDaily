@@ -1,0 +1,450 @@
+[
+  {
+    "word": "punish",
+    "ipa": "/ˈpʌn.ɪʃ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "처벌하다"
+      }
+    ]
+  },
+  {
+    "word": "civilization",
+    "ipa": "/ˌsɪv.əl.əˈzeɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "문명"
+      }
+    ]
+  },
+  {
+    "word": "construct",
+    "ipa": "/kənˈstrʌkt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "건설하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "구조물"
+      }
+    ]
+  },
+  {
+    "word": "recall",
+    "ipa": "/rɪˈkɔːl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "기억하다, 상기하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "회상"
+      }
+    ]
+  },
+  {
+    "word": "gradually",
+    "ipa": "/ˈɡrædʒ.u.ə.li/",
+    "meanings": [
+      {
+        "partOfSpeech": "부사",
+        "meaning": "점차적으로"
+      }
+    ]
+  },
+  {
+    "word": "delay",
+    "ipa": "/dɪˈleɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "지연시키다, 미루다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "지연"
+      }
+    ]
+  },
+  {
+    "word": "genetic",
+    "ipa": "/dʒəˈnet̬.ɪk/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유전의"
+      }
+    ]
+  },
+  {
+    "word": "sustainable",
+    "ipa": "/səˈsteɪ.nə.bəl/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "지속 가능한"
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "ipa": "/ˈredʒ.ɪ.stər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "등록하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "등록부"
+      }
+    ]
+  },
+  {
+    "word": "rotate",
+    "ipa": "/ˈroʊ.teɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "회전하다"
+      }
+    ]
+  },
+  {
+    "word": "declare",
+    "ipa": "/dɪˈkler/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "선언하다"
+      }
+    ]
+  },
+  {
+    "word": "reputation",
+    "ipa": "/ˌrep.jəˈteɪ.ʃən/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "평판"
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "ipa": "/ˈset̬.əl/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "정착하다, 해결하다"
+      }
+    ]
+  },
+  {
+    "word": "agent",
+    "ipa": "/ˈeɪ.dʒənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "대리인, 중개인"
+      }
+    ]
+  },
+  {
+    "word": "crisis",
+    "ipa": "/ˈkraɪ.sɪs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "위기"
+      }
+    ]
+  },
+  {
+    "word": "guilty",
+    "ipa": "/ˈɡɪl.t̬i/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "죄책감 있는, 유죄의"
+      }
+    ]
+  },
+  {
+    "word": "innocent",
+    "ipa": "/ˈɪn.ə.sənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "결백한"
+      }
+    ]
+  },
+  {
+    "word": "analyze",
+    "ipa": "/ˈæn.əl.aɪz/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "분석하다"
+      }
+    ]
+  },
+  {
+    "word": "commit",
+    "ipa": "/kəˈmɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "저지르다, 약속하다"
+      }
+    ]
+  },
+  {
+    "word": "comment",
+    "ipa": "/ˈkɑː.ment/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "논평하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "논평"
+      }
+    ]
+  },
+  {
+    "word": "edit",
+    "ipa": "/ˈed.ɪt/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "편집하다"
+      }
+    ]
+  },
+  {
+    "word": "equip",
+    "ipa": "/ɪˈkwɪp/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "장비를 갖추다"
+      }
+    ]
+  },
+  {
+    "word": "genius",
+    "ipa": "/ˈdʒiː.ni.əs/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "천재"
+      }
+    ]
+  },
+  {
+    "word": "adequate",
+    "ipa": "/ˈæd.ə.kwət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "충분한, 적절한"
+      }
+    ]
+  },
+  {
+    "word": "aggressive",
+    "ipa": "/əˈɡres.ɪv/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "공격적인"
+      }
+    ]
+  },
+  {
+    "word": "load",
+    "ipa": "/loʊd/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "짐을 싣다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "짐"
+      }
+    ]
+  },
+  {
+    "word": "manufacture",
+    "ipa": "/ˌmæn.jəˈfæk.tʃər/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "제조하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "제조"
+      }
+    ]
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/əkˈnɑː.lɪdʒ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "인정하다"
+      }
+    ]
+  },
+  {
+    "word": "deny",
+    "ipa": "/dɪˈnaɪ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "부인하다"
+      }
+    ]
+  },
+  {
+    "word": "behavior",
+    "ipa": "/bɪˈheɪ.vjər/",
+    "meanings": [
+      {
+        "partOfSpeech": "명사",
+        "meaning": "행동"
+      }
+    ]
+  },
+  {
+    "word": "mature",
+    "ipa": "/məˈtʊr/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "성숙한"
+      },
+      {
+        "partOfSpeech": "동사",
+        "meaning": "성숙하다"
+      }
+    ]
+  },
+  {
+    "word": "thrust",
+    "ipa": "/θrʌst/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "밀다, 찌르다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "추진력"
+      }
+    ]
+  },
+  {
+    "word": "corporate",
+    "ipa": "/ˈkɔːr.pər.ət/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "기업의"
+      }
+    ]
+  },
+  {
+    "word": "severe",
+    "ipa": "/sɪˈvɪr/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "심각한"
+      }
+    ]
+  },
+  {
+    "word": "alert",
+    "ipa": "/əˈlɜːrt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "경계하는"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "경보"
+      }
+    ]
+  },
+  {
+    "word": "violent",
+    "ipa": "/ˈvaɪ.ə.lənt/",
+    "meanings": [
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "폭력적인"
+      }
+    ]
+  },
+  {
+    "word": "glow",
+    "ipa": "/ɡloʊ/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "빛나다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "빛"
+      }
+    ]
+  },
+  {
+    "word": "guarantee",
+    "ipa": "/ˌɡer.ənˈtiː/",
+    "meanings": [
+      {
+        "partOfSpeech": "동사",
+        "meaning": "보장하다"
+      },
+      {
+        "partOfSpeech": "명사",
+        "meaning": "보장"
+      }
+    ]
+  },
+  {
+    "word": "be based on",
+    "ipa": "/biː beɪst ɑːn/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "~에 근거하다"
+      }
+    ]
+  },
+  {
+    "word": "remind A of B",
+    "ipa": "/rɪˈmaɪnd eɪ əv biː/",
+    "meanings": [
+      {
+        "partOfSpeech": "구문",
+        "meaning": "A에게 B를 상기시키다"
+      }
+    ]
+  }
+]
