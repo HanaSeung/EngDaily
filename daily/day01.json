@@ -17,6 +17,14 @@
         "partOfSpeech": "동사",
         "meaning": "생산하다"
       },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "만들어 내다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "초래하다"
+      },
       {
         "partOfSpeech": "명사",
         "meaning": "농산물"
@@ -30,6 +38,14 @@
       {
         "partOfSpeech": "명사",
         "meaning": "믿음"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "신념"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "신앙"
       }
     ]
   },
@@ -40,6 +56,10 @@
       {
         "partOfSpeech": "형용사",
         "meaning": "비슷한"
+      },
+      {
+        "partOfSpeech": "형용사",
+        "meaning": "유사한"
       }
     ]
   },
@@ -50,6 +70,10 @@
       {
         "partOfSpeech": "명사",
         "meaning": "순간"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "중요성"
       }
     ]
   },
@@ -60,6 +84,10 @@
       {
         "partOfSpeech": "명사",
         "meaning": "상황"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "위치"
       }
     ]
   },
@@ -69,7 +97,11 @@
     "meanings": [
       {
         "partOfSpeech": "동사",
-        "meaning": "향상시키다"
+        "meaning": "향상하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "개선하다"
       }
     ]
   },
@@ -81,9 +113,17 @@
         "partOfSpeech": "동사",
         "meaning": "증가하다"
       },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "증가시키다"
+      },
       {
         "partOfSpeech": "명사",
         "meaning": "증가"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "인상"
       }
     ]
   },
@@ -98,6 +138,10 @@
       {
         "partOfSpeech": "명사",
         "meaning": "감소"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "축소"
       }
     ]
   },
@@ -108,6 +152,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "공유하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "나누다"
       },
       {
         "partOfSpeech": "명사",
@@ -122,6 +170,10 @@
       {
         "partOfSpeech": "명사",
         "meaning": "감정"
+      },
+       {
+        "partOfSpeech": "명사",
+        "meaning": "정서"
       }
     ]
   },
@@ -132,6 +184,14 @@
       {
         "partOfSpeech": "형용사",
         "meaning": "공통의"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "흔한"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "보통의"
       }
     ]
   },
@@ -142,6 +202,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "회복하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "복구되다"
       }
     ]
   },
@@ -152,6 +216,10 @@
       {
         "partOfSpeech": "형용사",
         "meaning": "진보한"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "상급의"
       }
     ]
   },
@@ -172,6 +240,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "거절하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "거부하다"
       },
       {
         "partOfSpeech": "명사",
@@ -200,6 +272,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "받아들이다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "수락하다"
       }
     ]
   },
@@ -224,6 +300,14 @@
       {
         "partOfSpeech": "형용사",
         "meaning": "확실한"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "확신하는"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "어떤"
       }
     ]
   },
@@ -234,6 +318,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "고려하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "~으로 여기다"
       }
     ]
   },
@@ -244,6 +332,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "공급하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "제공하다"
       },
       {
         "partOfSpeech": "명사",
@@ -258,6 +350,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "제공하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "대비하다"
       }
     ]
   },
@@ -268,6 +364,10 @@
       {
         "partOfSpeech": "형용사",
         "meaning": "실용적인"
+      },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "실제적인"
       }
     ]
   },
@@ -278,6 +378,14 @@
       {
         "partOfSpeech": "동사",
         "meaning": "표현하다"
+      }, 
+      {
+        "partOfSpeech": "동사",
+        "meaning": "나타내다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "속달로 보내다"
       },
       {
         "partOfSpeech": "형용사",
@@ -307,6 +415,10 @@
         "partOfSpeech": "형용사",
         "meaning": "우수한"
       },
+       {
+        "partOfSpeech": "형용사",
+        "meaning": "뛰어난"
+      }
       {
         "partOfSpeech": "명사",
         "meaning": "상급자"
@@ -324,7 +436,7 @@
       {
         "partOfSpeech": "명사",
         "meaning": "하급자"
-      }
+      },
     ]
   },
   {
@@ -334,6 +446,14 @@
       {
         "partOfSpeech": "동사",
         "meaning": "찾다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "추구하다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "청하다"
       }
     ]
   },
@@ -345,6 +465,10 @@
         "partOfSpeech": "동사",
         "meaning": "목표하다"
       },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "겨냥하다"
+      }
       {
         "partOfSpeech": "명사",
         "meaning": "목표"
@@ -358,6 +482,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "희미해지다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "사라지다"
       }
     ]
   },
@@ -368,6 +496,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "사라지다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "없어지다"
       }
     ]
   },
@@ -378,6 +510,10 @@
       {
         "partOfSpeech": "동사",
         "meaning": "나타나다"
+      },
+       {
+        "partOfSpeech": "동사",
+        "meaning": "드러나다"
       }
     ]
   },
@@ -435,7 +571,11 @@
     "meanings": [
       {
         "partOfSpeech": "구동사",
-        "meaning": "우연히 만나다"
+        "meaning": "~와 우연히 만나다"
+      },
+       {
+        "partOfSpeech": "구동사",
+        "meaning": "~와 충돌하다"
       }
     ]
   },
@@ -446,6 +586,10 @@
       {
         "partOfSpeech": "구동사",
         "meaning": "~에 의존하다"
+      },
+       {
+        "partOfSpeech": "구동사",
+        "meaning": "~에 달려있다"
       }
     ]
   },
@@ -455,7 +599,11 @@
     "meanings": [
       {
         "partOfSpeech": "구동사",
-        "meaning": "수행하다"
+        "meaning": "~을 수행하다"
+      },
+       {
+        "partOfSpeech": "구동사",
+        "meaning": "~을 완료하다"
       }
     ]
   }
